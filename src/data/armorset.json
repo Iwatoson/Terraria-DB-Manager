@@ -1,0 +1,330 @@
+[
+  { "シリーズ": "Mining armor", "種類": "All", "効果": "採掘速度 +30%" },
+  { "シリーズ": "Wood armor", "種類": "All", "効果": "防御力 +1" },
+  { "シリーズ": "Rich Mahogany armor", "種類": "All", "効果": "防御力 +1" },
+  { "シリーズ": "Boreal Wood armor", "種類": "All", "効果": "防御力 +1" },
+  { "シリーズ": "Palm Wood armor", "種類": "All", "効果": "防御力 +1" },
+  { "シリーズ": "Ebonwood armor", "種類": "All", "効果": "防御力 +1" },
+  { "シリーズ": "Shadewood armor", "種類": "All", "効果": "防御力 +1" },
+  { "シリーズ": "Ash Wood armor", "種類": "All", "効果": "防御力 +1" },
+  {
+    "シリーズ": "Snow armor",
+    "種類": "All",
+    "効果": "Chilled・Frozenの状態異常を無効化"
+  },
+  {
+    "シリーズ": "Pink Snow armor",
+    "種類": "All",
+    "効果": "Chilled・Frozenの状態異常を無効化"
+  },
+  { "シリーズ": "Angler armor", "種類": "All", "効果": "敵のスポーン率低下" },
+  {
+    "シリーズ": "Cactus armor",
+    "種類": "All",
+    "効果": "攻撃者に15~45ダメージを与え,ノックバックする"
+  },
+  { "シリーズ": "Copper armor", "種類": "All", "効果": "防御力 +2" },
+  { "シリーズ": "Tin armor", "種類": "All", "効果": "防御力 +2" },
+  { "シリーズ": "Pumpkin armor", "種類": "All", "効果": "攻撃力 +10%" },
+  { "シリーズ": "Ninja armor", "種類": "All", "効果": "移動速度 +20%" },
+  { "シリーズ": "Iron armor", "種類": "All", "効果": "防御力 +2" },
+  { "シリーズ": "Lead armor", "種類": "All", "効果": "防御力 +3" },
+  { "シリーズ": "Silver armor", "種類": "All", "効果": "防御力 +3" },
+  { "シリーズ": "Tungsten armor", "種類": "All", "効果": "防御力 +3" },
+  { "シリーズ": "Gold armor", "種類": "All", "効果": "防御力 +3" },
+  { "シリーズ": "Platinum armor", "種類": "All", "効果": "防御力 +4" },
+  {
+    "シリーズ": "Fossil armor",
+    "種類": "Range",
+    "効果": "20%の確率で弾を消費しない"
+  },
+  {
+    "シリーズ": "Bee armor",
+    "種類": "Summon",
+    "効果": "召喚対象の攻撃力 +10%"
+  },
+  {
+    "シリーズ": "Obsidian armor",
+    "種類": "Summon",
+    "効果": "鞭の攻撃範囲 +50%,鞭の攻撃速度 +35%,Minionの与ダメージ +15%"
+  },
+  { "シリーズ": "Gladiator armor", "種類": "All", "効果": "ノックバック無効" },
+  {
+    "シリーズ": "Meteor armor",
+    "種類": "Magic",
+    "効果": "Space Gunの消費マナを0にする"
+  },
+  { "シリーズ": "Jungle armor", "種類": "Magic", "効果": "消費マナ -16%" },
+  {
+    "シリーズ": "Ancient Cobalt armor",
+    "種類": "Magic",
+    "効果": "消費マナ -16%"
+  },
+  {
+    "シリーズ": "Necro armor",
+    "種類": "Range",
+    "効果": "20%の確率で弾を消費しない"
+  },
+  { "シリーズ": "Shadow armor", "種類": "All", "効果": "移動速度 +15%" },
+  {
+    "シリーズ": "Ancient Shadow armor",
+    "種類": "All",
+    "効果": "移動速度 +15%"
+  },
+  {
+    "シリーズ": "Crimson armor",
+    "種類": "All",
+    "効果": "Lifeの自動回復速度が大幅に増加"
+  },
+  { "シリーズ": "Molten armor", "種類": "Melee", "効果": "近接攻撃力 +10%" },
+  { "シリーズ": "Pearlwood armor", "種類": "All", "効果": "防御力 +1" },
+  {
+    "シリーズ": "Spider armor",
+    "種類": "Summon",
+    "効果": "召喚対象の攻撃力 +12%"
+  },
+  { "シリーズ": "Cobalt armor", "種類": "Magic", "効果": "消費マナ -14%" },
+  {
+    "シリーズ": "Cobalt armor",
+    "種類": "Range",
+    "効果": "20%の確率で弾薬を消費しない"
+  },
+  { "シリーズ": "Cobalt armor", "種類": "Melee", "効果": "近接攻撃速度 +15%" },
+  {
+    "シリーズ": "Palladium armor",
+    "種類": "Magic",
+    "効果": "攻撃命中時 5秒間 HP高速回復"
+  },
+  {
+    "シリーズ": "Palladium armor",
+    "種類": "Range",
+    "効果": "攻撃命中時 5秒間 HP高速回復"
+  },
+  {
+    "シリーズ": "Palladium armor",
+    "種類": "Melee",
+    "効果": "攻撃命中時 5秒間 HP高速回復"
+  },
+  { "シリーズ": "Mythril armor", "種類": "Magic", "効果": "消費マナ -17%" },
+  {
+    "シリーズ": "Mythril armor",
+    "種類": "Range",
+    "効果": "20%の確率で弾薬を消費しない"
+  },
+  {
+    "シリーズ": "Mythril armor",
+    "種類": "Melee",
+    "効果": "近接攻撃クリティカル率 +10%"
+  },
+  {
+    "シリーズ": "Orichalcum armor",
+    "種類": "Magic",
+    "効果": "攻撃命中時、画面外から地形や敵を貫通するレーザー攻撃"
+  },
+  {
+    "シリーズ": "Orichalcum armor",
+    "種類": "Range",
+    "効果": "攻撃命中時、画面外から地形や敵を貫通するレーザー攻撃"
+  },
+  {
+    "シリーズ": "Orichalcum armor",
+    "種類": "Melee",
+    "効果": "攻撃命中時、画面外から地形や敵を貫通するレーザー攻撃"
+  },
+  { "シリーズ": "Adamantite armor", "種類": "Magic", "効果": "消費マナ -19%" },
+  {
+    "シリーズ": "Adamantite armor",
+    "種類": "Range",
+    "効果": "25%の確率で弾薬を消費しない"
+  },
+  {
+    "シリーズ": "Adamantite armor",
+    "種類": "Melee",
+    "効果": "近接攻撃速度 +20%,移動速度 +20%"
+  },
+  {
+    "シリーズ": "Titanium armor",
+    "種類": "Magic",
+    "効果": "攻撃ヒット時自分にTitanium Barrierのバフを付与"
+  },
+  {
+    "シリーズ": "Titanium armor",
+    "種類": "Range",
+    "効果": "攻撃ヒット時自分にTitanium Barrierのバフを付与"
+  },
+  {
+    "シリーズ": "Titanium armor",
+    "種類": "Melee",
+    "効果": "攻撃ヒット時自分にTitanium Barrierのバフを付与"
+  },
+  {
+    "シリーズ": "Crystal Assassin armor",
+    "種類": "All",
+    "効果": "攻撃力 +10%,クリティカル率 +10%,ダッシュが可能"
+  },
+  {
+    "シリーズ": "Frost armor",
+    "種類": "Melee",
+    "効果": "近接武器・遠距離武器の攻撃にFrostburnの追加効果を付与,近接・遠距離ダメージ +10%"
+  },
+  {
+    "シリーズ": "Forbidden armor",
+    "種類": "All",
+    "効果": "Downキーを二回押すとカーソルの場所に砂嵐を発生"
+  },
+  {
+    "シリーズ": "Squire armor",
+    "種類": "Summon",
+    "効果": "Sentryの最大召喚数 +1,Ballista系の召喚武器が強化"
+  },
+  {
+    "シリーズ": "Monk armor",
+    "種類": "Summon",
+    "効果": "Sentryの最大召喚数 +1,Lightning Aura系の召喚武器が強化"
+  },
+  {
+    "シリーズ": "Huntress armor",
+    "種類": "Summon",
+    "効果": "Sentryの最大召喚数 +1,Explosive Trap系の召喚武器が強化"
+  },
+  {
+    "シリーズ": "Apprentice armor",
+    "種類": "Summon",
+    "効果": "Sentryの最大召喚数 +1,Flameburst系の召喚武器が強化"
+  },
+  {
+    "シリーズ": "Hallowed armor",
+    "種類": "Summon",
+    "効果": "攻撃ヒット時自分にHoly Protectionのバフを付与"
+  },
+  {
+    "シリーズ": "Hallowed armor",
+    "種類": "Magic",
+    "効果": "攻撃ヒット時自分にHoly Protectionのバフを付与"
+  },
+  {
+    "シリーズ": "Hallowed armor",
+    "種類": "Range",
+    "効果": "攻撃ヒット時自分にHoly Protectionのバフを付与"
+  },
+  {
+    "シリーズ": "Hallowed armor",
+    "種類": "Melee",
+    "効果": "攻撃ヒット時自分にHoly Protectionのバフを付与"
+  },
+  {
+    "シリーズ": "Ancient Hallowed armor",
+    "種類": "Summon",
+    "効果": "攻撃ヒット時自分にHoly Protectionのバフを付与"
+  },
+  {
+    "シリーズ": "Ancient Hallowed armor",
+    "種類": "Magic",
+    "効果": "攻撃ヒット時自分にHoly Protectionのバフを付与"
+  },
+  {
+    "シリーズ": "Ancient Hallowed armor",
+    "種類": "Range",
+    "効果": "攻撃ヒット時自分にHoly Protectionのバフを付与"
+  },
+  {
+    "シリーズ": "Ancient Hallowed armor",
+    "種類": "Melee",
+    "効果": "攻撃ヒット時自分にHoly Protectionのバフを付与"
+  },
+  {
+    "シリーズ": "Chlorophyte armor",
+    "種類": "Magic",
+    "効果": "頭上にクリスタルが出現し敵を自動で攻撃"
+  },
+  {
+    "シリーズ": "Chlorophyte armor",
+    "種類": "Range",
+    "効果": "頭上にクリスタルが出現し敵を自動で攻撃"
+  },
+  {
+    "シリーズ": "Chlorophyte armor",
+    "種類": "Melee",
+    "効果": "頭上にクリスタルが出現し敵を自動で攻撃,ダメージ軽減 +5%"
+  },
+  {
+    "シリーズ": "Turtle armor",
+    "種類": "Melee",
+    "効果": "敵から接触ダメージを受けた時その敵の攻撃力の倍のダメージを与える,ダメージ軽減 +15%"
+  },
+  {
+    "シリーズ": "Tiki armor",
+    "種類": "Summon",
+    "効果": "Minionの最大召喚数 +1"
+  },
+  {
+    "シリーズ": "Beetle armorScale Mail)",
+    "種類": "Melee",
+    "効果": "攻撃命中時、一定確率で数秒間カブトムシを召喚最大3匹)、1匹につき近接攻撃力と近接攻撃速度が10%増加最大30%増加)"
+  },
+  {
+    "シリーズ": "Beetle armorShell)",
+    "種類": "Melee",
+    "効果": "、数秒間ダメージを受けずにいるとカブトムシを召喚最大3匹)、1匹につき受けるダメージを15%減少最大45%減少)、ダメージを受けるとカブトムシは1匹ずつ消滅"
+  },
+  {
+    "シリーズ": "Shroomite armor",
+    "種類": "Range",
+    "効果": "プレイヤー静止時に透明化し遠距離武器の攻撃力・クリティカル率 +10%"
+  },
+  {
+    "シリーズ": "Spectre armorMask)",
+    "種類": "Magic",
+    "効果": "魔法攻撃命中時、追加ダメージ追尾玉が発生"
+  },
+  {
+    "シリーズ": "Spectre armorHood)",
+    "種類": "Magic",
+    "効果": "魔法攻撃力 -40%,魔法攻撃命中時、HP吸収追尾が発生し攻撃命中座標付近のプレイヤーを回復"
+  },
+  {
+    "シリーズ": "Spooky armor",
+    "種類": "Summon",
+    "効果": "召喚対象の攻撃力 +25%"
+  },
+  {
+    "シリーズ": "Valhalla Knight armor",
+    "種類": "Summon",
+    "効果": "Sentryの最大召喚数 +1,vallista系の召喚武器が強化"
+  },
+  {
+    "シリーズ": "Shinobi Infiltrator armor",
+    "種類": "Summon",
+    "効果": "Sentryの最大召喚数 +1,Lightning Aura系の召喚武器が強化"
+  },
+  {
+    "シリーズ": "Red Riding armor",
+    "種類": "Summon",
+    "効果": "Sentryの最大召喚数 +1,Explosive Trap系の召喚武器が強化"
+  },
+  {
+    "シリーズ": "Dark Artist armor",
+    "種類": "Summon",
+    "効果": "Sentryの最大召喚数 +1,Flameburst系の召喚武器が強化"
+  },
+  {
+    "シリーズ": "Solar Flare armor",
+    "種類": "Melee",
+    "効果": "時間経過でシールドを付与最大3段階敵と接触時シールドを1段階使用しダメージを与える,ダッシュが可能"
+  },
+  {
+    "シリーズ": "Vortex armor",
+    "種類": "Range",
+    "効果": "Downキーを二回押すと透明化し遠距離ダメージ +80% 遠距離クリティカル率 +20% ノックバック +50% 移動速度 -33%"
+  },
+  {
+    "シリーズ": "Nebula armor",
+    "種類": "Magic",
+    "効果": "攻撃ヒット時に取得すると、Damage Nebulaバフ攻撃力 +15%)を付与するDamage Booster,Life NebulaバフHPが毎秒3回復)を付与するLife Booster,Mana Nebulaバフマナが毎秒10回復)を付与するMana Booster、のいずれかを発生させる"
+  },
+  {
+    "シリーズ": "Stardust armor",
+    "種類": "Summon",
+    "効果": "Stardust Guardianを召喚する"
+  }
+]

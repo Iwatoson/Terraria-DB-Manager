@@ -1,0 +1,1468 @@
+[
+  {
+    "防具名": "Mining Helmet",
+    "シリーズ": "Mining armor",
+    "種類": "All",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Mining Shirt",
+    "シリーズ": "Mining armor",
+    "種類": "All",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Mining Pants",
+    "シリーズ": "Mining armor",
+    "種類": "All",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Wood Helmet",
+    "シリーズ": "Wood armor",
+    "種類": "All",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Wood Breastplate",
+    "シリーズ": "Wood armor",
+    "種類": "All",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Wood Greaves",
+    "シリーズ": "Wood armor",
+    "種類": "All",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Rich Mahogany Helmet",
+    "シリーズ": "Rich Mahogany armor",
+    "種類": "All",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Rich Mahogany Breastplate",
+    "シリーズ": "Rich Mahogany armor",
+    "種類": "All",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Rich Mahogany Greaves",
+    "シリーズ": "Rich Mahogany armor",
+    "種類": "All",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Boreal Wood Helmet",
+    "シリーズ": "Boreal Wood armor",
+    "種類": "All",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Boreal Wood Breastplate",
+    "シリーズ": "Boreal Wood armor",
+    "種類": "All",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Boreal Wood Greaves",
+    "シリーズ": "Boreal Wood armor",
+    "種類": "All",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Palm Wood Helmet",
+    "シリーズ": "Palm Wood armor",
+    "種類": "All",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Palm Wood Breastplate",
+    "シリーズ": "Palm Wood armor",
+    "種類": "All",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Palm Wood Greaves",
+    "シリーズ": "Palm Wood armor",
+    "種類": "All",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Ebonwood Helmet",
+    "シリーズ": "Ebonwood armor",
+    "種類": "All",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Ebonwood Breastplate",
+    "シリーズ": "Ebonwood armor",
+    "種類": "All",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Ebonwood Greaves",
+    "シリーズ": "Ebonwood armor",
+    "種類": "All",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Shadewood Helmet",
+    "シリーズ": "Shadewood armor",
+    "種類": "All",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Shadewood Breastplate",
+    "シリーズ": "Shadewood armor",
+    "種類": "All",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Shadewood Greaves",
+    "シリーズ": "Shadewood armor",
+    "種類": "All",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Ash Wood Helmet",
+    "シリーズ": "Ash Wood armor",
+    "種類": "All",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Ash Wood Breastplate",
+    "シリーズ": "Ash Wood armor",
+    "種類": "All",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Ash Wood Greaves",
+    "シリーズ": "Ash Wood armor",
+    "種類": "All",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Rain Hat",
+    "シリーズ": "Rain armor",
+    "種類": "All",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Rain Coat",
+    "シリーズ": "Rain armor",
+    "種類": "All",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Snow Hood",
+    "シリーズ": "Snow armor",
+    "種類": "All",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Snow Coat",
+    "シリーズ": "Snow armor",
+    "種類": "All",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Snow Pants",
+    "シリーズ": "Snow armor",
+    "種類": "All",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Pink Snow Hood",
+    "シリーズ": "Pink Snow armor",
+    "種類": "All",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Pink Snow Coat",
+    "シリーズ": "Pink Snow armor",
+    "種類": "All",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Pink Snow Pants",
+    "シリーズ": "Pink Snow armor",
+    "種類": "All",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Angler Hat",
+    "シリーズ": "Angler armor",
+    "種類": "All",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Angler Vest",
+    "シリーズ": "Angler armor",
+    "種類": "All",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Angler Pants",
+    "シリーズ": "Angler armor",
+    "種類": "All",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Cactus Helmet",
+    "シリーズ": "Cactus armor",
+    "種類": "All",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Cactus Breastplate",
+    "シリーズ": "Cactus armor",
+    "種類": "All",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Cactus Leggings",
+    "シリーズ": "Cactus armor",
+    "種類": "All",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Copper Helmet",
+    "シリーズ": "Copper armor",
+    "種類": "All",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Copper Chainmail",
+    "シリーズ": "Copper armor",
+    "種類": "All",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Copper Greaves",
+    "シリーズ": "Copper armor",
+    "種類": "All",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Tin Helmet",
+    "シリーズ": "Tin armor",
+    "種類": "All",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Tin Chainmail",
+    "シリーズ": "Tin armor",
+    "種類": "All",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Tin Greaves",
+    "シリーズ": "Tin armor",
+    "種類": "All",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Pumpkin Helmet",
+    "シリーズ": "Pumpkin armor",
+    "種類": "All",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Pumpkin Breastplate",
+    "シリーズ": "Pumpkin armor",
+    "種類": "All",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Pumpkin Leggings",
+    "シリーズ": "Pumpkin armor",
+    "種類": "All",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Ninja Hood",
+    "シリーズ": "Ninja armor",
+    "種類": "All",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Ninja Shirt",
+    "シリーズ": "Ninja armor",
+    "種類": "All",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Ninja Pants",
+    "シリーズ": "Ninja armor",
+    "種類": "All",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Iron Helmet",
+    "シリーズ": "Iron armor",
+    "種類": "All",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Ancient Iron Helmet",
+    "シリーズ": "Iron armor",
+    "種類": "All",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Iron Chainmail",
+    "シリーズ": "Iron armor",
+    "種類": "All",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Iron Greaves",
+    "シリーズ": "Iron armor",
+    "種類": "All",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Lead Helmet",
+    "シリーズ": "Lead armor",
+    "種類": "All",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Lead Chainmail",
+    "シリーズ": "Lead armor",
+    "種類": "All",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Lead Greaves",
+    "シリーズ": "Lead armor",
+    "種類": "All",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Silver Helmet",
+    "シリーズ": "Silver armor",
+    "種類": "All",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Silver Chainmail",
+    "シリーズ": "Silver armor",
+    "種類": "All",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Silver Greaves",
+    "シリーズ": "Silver armor",
+    "種類": "All",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Tungsten Helmet",
+    "シリーズ": "Tungsten armor",
+    "種類": "All",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Tungsten Chainmail",
+    "シリーズ": "Tungsten armor",
+    "種類": "All",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Tungsten Greaves",
+    "シリーズ": "Tungsten armor",
+    "種類": "All",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Gold Helmet",
+    "シリーズ": "Gold armor",
+    "種類": "All",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Ancient Gold Helmet",
+    "シリーズ": "Gold armor",
+    "種類": "All",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Gold Chainmail",
+    "シリーズ": "Gold armor",
+    "種類": "All",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Gold Greaves",
+    "シリーズ": "Gold armor",
+    "種類": "All",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Platinum Helmet",
+    "シリーズ": "Platinum armor",
+    "種類": "All",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Platinum Chainmail",
+    "シリーズ": "Platinum armor",
+    "種類": "All",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Platinum Greaves",
+    "シリーズ": "Platinum armor",
+    "種類": "All",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Fossil Helmet",
+    "シリーズ": "Fossil armor",
+    "種類": "Range",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Fossil Plate",
+    "シリーズ": "Fossil armor",
+    "種類": "Range",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Fossil Greaves",
+    "シリーズ": "Fossil armor",
+    "種類": "Range",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Bee Headgear",
+    "シリーズ": "Bee armor",
+    "種類": "Summon",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Bee Breastplate",
+    "シリーズ": "Bee armor",
+    "種類": "Summon",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Bee Greaves",
+    "シリーズ": "Bee armor",
+    "種類": "Summon",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Obsidian Outlaw Hat",
+    "シリーズ": "Obsidian armor",
+    "種類": "Summon",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Obsidian Longcoat",
+    "シリーズ": "Obsidian armor",
+    "種類": "Summon",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Obsidian Pants",
+    "シリーズ": "Obsidian armor",
+    "種類": "Summon",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Gladiator Helmet",
+    "シリーズ": "Gladiator armor",
+    "種類": "All",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Gladiator Breastplate",
+    "シリーズ": "",
+    "種類": "",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Gladiator Leggings",
+    "シリーズ": "Gladiator armor",
+    "種類": "All",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Meteor Helmet",
+    "シリーズ": "Meteor armor",
+    "種類": "Magic",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Meteor Suit",
+    "シリーズ": "Meteor armor",
+    "種類": "Magic",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Meteor Leggings",
+    "シリーズ": "Meteor armor",
+    "種類": "Magic",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Jungle Hat",
+    "シリーズ": "Jungle armor",
+    "種類": "Magic",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Jungle Shirt",
+    "シリーズ": "Jungle armor",
+    "種類": "Magic",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Jungle Pants",
+    "シリーズ": "Jungle armor",
+    "種類": "Magic",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Ancient Cobalt Helmet",
+    "シリーズ": "Ancient Cobalt armor",
+    "種類": "Magic",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Ancient Cobalt Breastplate",
+    "シリーズ": "Ancient Cobalt armor",
+    "種類": "Magic",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Ancient Cobalt Leggings",
+    "シリーズ": "Ancient Cobalt armor",
+    "種類": "Magic",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Necro Helmet",
+    "シリーズ": "Necro armor",
+    "種類": "Range",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Ancient Necro Helmet",
+    "シリーズ": "Necro armor",
+    "種類": "Range",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Necro Breastplate",
+    "シリーズ": "Necro armor",
+    "種類": "Range",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Necro Greaves",
+    "シリーズ": "Necro armor",
+    "種類": "Range",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Shadow Helmet",
+    "シリーズ": "Shadow armor",
+    "種類": "All",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Shadow Scalemail",
+    "シリーズ": "Shadow armor",
+    "種類": "All",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Shadow Greaves",
+    "シリーズ": "Shadow armor",
+    "種類": "All",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Ancient Shadow Helmet",
+    "シリーズ": "Ancient Shadow armor",
+    "種類": "All",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Ancient Shadow Scalemail",
+    "シリーズ": "Ancient Shadow armor",
+    "種類": "All",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Ancient Shadow Greaves",
+    "シリーズ": "Ancient Shadow armor",
+    "種類": "All",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Crimson Helmet",
+    "シリーズ": "Crimson armor",
+    "種類": "All",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Crimson Scalemail",
+    "シリーズ": "Crimson armor",
+    "種類": "All",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Crimson Greaves",
+    "シリーズ": "Crimson armor",
+    "種類": "All",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Molten Helmet",
+    "シリーズ": "Molten armor",
+    "種類": "Melee",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Molten Breastplate",
+    "シリーズ": "Molten armor",
+    "種類": "Melee",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Molten Greaves",
+    "シリーズ": "Molten armor",
+    "種類": "Melee",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Pearlwood Helmet",
+    "シリーズ": "Pearlwood armor",
+    "種類": "All",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Pearlwood Breastplate",
+    "シリーズ": "Pearlwood armor",
+    "種類": "All",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Pearlwood Greaves",
+    "シリーズ": "Pearlwood armor",
+    "種類": "All",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Spider Mask",
+    "シリーズ": "Spider armor",
+    "種類": "Summon",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Spider Breastplate",
+    "シリーズ": "Spider armor",
+    "種類": "Summon",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Spider Greaves",
+    "シリーズ": "Spider armor",
+    "種類": "Summon",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Cobalt Hat",
+    "シリーズ": "Cobalt armor",
+    "種類": "Magic",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Cobalt Mask",
+    "シリーズ": "Cobalt armor",
+    "種類": "Ranged",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Cobalt Helmet",
+    "シリーズ": "Cobalt armor",
+    "種類": "Melee",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Cobalt Breastplate",
+    "シリーズ": "Cobalt armor",
+    "種類": "All",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Cobalt Leggings",
+    "シリーズ": "Cobalt armor",
+    "種類": "All",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Palladium Headgear",
+    "シリーズ": "Palladium armor",
+    "種類": "Magic",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Palladium Helmet",
+    "シリーズ": "Palladium armor",
+    "種類": "Range",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Palladium Mask",
+    "シリーズ": "Palladium armor",
+    "種類": "Melee",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Palladium Breastplate",
+    "シリーズ": "Palladium armor",
+    "種類": "All",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Palladium Leggings",
+    "シリーズ": "Palladium armor",
+    "種類": "All",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Mythril Hood",
+    "シリーズ": "Mythril armor",
+    "種類": "Magic",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Mythril Hat",
+    "シリーズ": "Mythril armor",
+    "種類": "Range",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Mythril Helmet",
+    "シリーズ": "Mythril armor",
+    "種類": "Melee",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Mythril Chainmail",
+    "シリーズ": "Mythril armor",
+    "種類": "All",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Mythril Greaves",
+    "シリーズ": "Mythril armor",
+    "種類": "All",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Orichalcum Headgear",
+    "シリーズ": "Orichalcum armor",
+    "種類": "Magic",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Orichalcum Helmet",
+    "シリーズ": "Orichalcum armor",
+    "種類": "Range",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Orichalcum Mask",
+    "シリーズ": "Orichalcum armor",
+    "種類": "Melee",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Orichalcum Breastplate",
+    "シリーズ": "Orichalcum armor",
+    "種類": "All",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Orichalcum Leggings",
+    "シリーズ": "Orichalcum armor",
+    "種類": "All",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Adamantite Headgear",
+    "シリーズ": "Adamantite armor",
+    "種類": "Magic",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Adamantite Mask",
+    "シリーズ": "Adamantite armor",
+    "種類": "Range",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Adamantite Helmet",
+    "シリーズ": "Adamantite armor",
+    "種類": "Melee",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Adamantite Breastplate",
+    "シリーズ": "Adamantite armor",
+    "種類": "All",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Adamantite Leggings",
+    "シリーズ": "Adamantite armor",
+    "種類": "All",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Titanium Headgear",
+    "シリーズ": "Titanium armor",
+    "種類": "Magic",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Titanium Helmet",
+    "シリーズ": "Titanium armor",
+    "種類": "Range",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Titanium Mask",
+    "シリーズ": "Titanium armor",
+    "種類": "Melee",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Titanium Breastplate",
+    "シリーズ": "Titanium armor",
+    "種類": "All",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Titanium Leggings",
+    "シリーズ": "Titanium armor",
+    "種類": "All",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Crystal Assassin Hood",
+    "シリーズ": "Crystal Assassin armor",
+    "種類": "All",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Crystal Assassin Shirt",
+    "シリーズ": "Crystal Assassin armor",
+    "種類": "All",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Crystal Assassin Pants",
+    "シリーズ": "Crystal Assassin armor",
+    "種類": "All",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Frost Helmet",
+    "シリーズ": "Frost armor",
+    "種類": "Melee",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Frost Breastplate",
+    "シリーズ": "Frost armor",
+    "種類": "Melee",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Frost Leggings",
+    "シリーズ": "Frost armor",
+    "種類": "Melee",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Forbidden Mask",
+    "シリーズ": "Forbidden armor",
+    "種類": "All",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Forbidden Robes",
+    "シリーズ": "Forbidden armor",
+    "種類": "All",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Forbidden Treads",
+    "シリーズ": "Forbidden armor",
+    "種類": "All",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Squire's Great Helm",
+    "シリーズ": "Squire armor",
+    "種類": "Summon",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Squire's Plating",
+    "シリーズ": "Squire armor",
+    "種類": "Summon",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Squire's Greaves",
+    "シリーズ": "Squire armor",
+    "種類": "Summon",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Monk's Bushy Brow Bald Cap",
+    "シリーズ": "Monk armor",
+    "種類": "Summon",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Monk's Shirt",
+    "シリーズ": "Monk armor",
+    "種類": "Summon",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Monk's Pants",
+    "シリーズ": "Monk armor",
+    "種類": "Summon",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Huntress's Wig",
+    "シリーズ": "Huntress armor",
+    "種類": "Summon",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Huntress's Jerkin",
+    "シリーズ": "Huntress armor",
+    "種類": "Summon",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Huntress's Pants",
+    "シリーズ": "Huntress armor",
+    "種類": "Summon",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Apprentice's Hat",
+    "シリーズ": "Apprentice armor",
+    "種類": "Summon",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Apprentice's Robe",
+    "シリーズ": "Apprentice armor",
+    "種類": "Summon",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Apprentice's Trousers",
+    "シリーズ": "Apprentice armor",
+    "種類": "Summon",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Hallowed Hood",
+    "シリーズ": "Hallowed armor",
+    "種類": "Summon",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Hallowed Headgear",
+    "シリーズ": "Hallowed armor",
+    "種類": "Magic",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Hallowed Helmet",
+    "シリーズ": "Hallowed armor",
+    "種類": "Range",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Hallowed Mask",
+    "シリーズ": "Hallowed armor",
+    "種類": "Melee",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Hallowed Plate Mail",
+    "シリーズ": "Hallowed armor",
+    "種類": "All",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Hallowed Greaves",
+    "シリーズ": "Hallowed armor",
+    "種類": "All",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Ancient Hallowed Hood",
+    "シリーズ": "Ancient Hallowed armor",
+    "種類": "Summon",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Ancient Hallowed Headgear",
+    "シリーズ": "Ancient Hallowed armor",
+    "種類": "Magic",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Ancient Hallowed Helmet",
+    "シリーズ": "Ancient Hallowed armor",
+    "種類": "Range",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Ancient Hallowed Mask",
+    "シリーズ": "Ancient Hallowed armor",
+    "種類": "Melee",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Ancient Hallowed Plate Mail",
+    "シリーズ": "Ancient Hallowed armor",
+    "種類": "All",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Ancient Hallowed Greaves",
+    "シリーズ": "Ancient Hallowed armor",
+    "種類": "All",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Chlorophyte Headgear",
+    "シリーズ": "Chlorophyte armor",
+    "種類": "Magic",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Chlorophyte Helmet",
+    "シリーズ": "Chlorophyte armor",
+    "種類": "Range",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Chlorophyte Mask",
+    "シリーズ": "Chlorophyte armor",
+    "種類": "Melee",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Chlorophyte Plate Mail",
+    "シリーズ": "Chlorophyte armor",
+    "種類": "All",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Chlorophyte Greaves",
+    "シリーズ": "Chlorophyte armor",
+    "種類": "All",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Turtle Helmet",
+    "シリーズ": "Turtle armor",
+    "種類": "Melee",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Turtle Scale Mail",
+    "シリーズ": "Turtle armor",
+    "種類": "Melee",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Turtle Leggings",
+    "シリーズ": "Turtle armor",
+    "種類": "Melee",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Tiki Mask",
+    "シリーズ": "Tiki armor",
+    "種類": "Summon",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Tiki Shirt",
+    "シリーズ": "Tiki armor",
+    "種類": "Summon",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Tiki Pants",
+    "シリーズ": "Tiki armor",
+    "種類": "Summon",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Beetle Helmet",
+    "シリーズ": "Beetle armor",
+    "種類": "Melee",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Beetle Scale Mail",
+    "シリーズ": "Beetle armor(Scale Mail",
+    "種類": "Melee",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Beetle Shell",
+    "シリーズ": "Beetle armor(Shell",
+    "種類": "Melee",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Beetle Leggings",
+    "シリーズ": "Beetle armor",
+    "種類": "Melee",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Shroomite Headgear",
+    "シリーズ": "Shroomite armor",
+    "種類": "Range",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Shroomite Mask",
+    "シリーズ": "Shroomite armor",
+    "種類": "Range",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Shroomite Helmet",
+    "シリーズ": "Shroomite armor",
+    "種類": "Range",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Shroomite Breastplate",
+    "シリーズ": "Shroomite armor",
+    "種類": "Range",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Shroomite Leggings",
+    "シリーズ": "Shroomite armor",
+    "種類": "Range",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Spectre Mask",
+    "シリーズ": "Spectre armor(Mask",
+    "種類": "Magic",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Spectre Hood",
+    "シリーズ": "Spectre armor(Hood",
+    "種類": "Magic",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Spectre Robe",
+    "シリーズ": "Spectre armor",
+    "種類": "Magic",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Spectre Pants",
+    "シリーズ": "Spectre armor",
+    "種類": "Magic",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Spooky Helmet",
+    "シリーズ": "Spooky armor",
+    "種類": "Summon",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Spooky Breastplate",
+    "シリーズ": "Spooky armor",
+    "種類": "Summon",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Spooky Leggings",
+    "シリーズ": "Spooky armor",
+    "種類": "Summon",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Valhalla Knight's Helm",
+    "シリーズ": "Valhalla Knight armor",
+    "種類": "Summon",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Valhalla Knight's Breastplate",
+    "シリーズ": "Valhalla Knight armor",
+    "種類": "Summon",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Valhalla Knight's Greaves",
+    "シリーズ": "Valhalla Knight armor",
+    "種類": "Summon",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Shinobi Infiltrator's Helmet",
+    "シリーズ": "Shinobi Infiltrator armor",
+    "種類": "Summon",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Shinobi Infiltrator's Torso",
+    "シリーズ": "Shinobi Infiltrator armor",
+    "種類": "Summon",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Shinobi Infiltrator's Pants",
+    "シリーズ": "Shinobi Infiltrator armor",
+    "種類": "Summon",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Red Riding Hood",
+    "シリーズ": "Red Riding armor",
+    "種類": "Summon",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Red Riding Dress",
+    "シリーズ": "Red Riding armor",
+    "種類": "Summon",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Red Riding Leggings",
+    "シリーズ": "Red Riding armor",
+    "種類": "Summon",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Dark Artist's Hat",
+    "シリーズ": "Dark Artist armor",
+    "種類": "Summon",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Dark Artist's Robes",
+    "シリーズ": "Dark Artist armor",
+    "種類": "Summon",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Dark Artist's Leggings",
+    "シリーズ": "Dark Artist armor",
+    "種類": "Summon",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Solar Flare Helmet",
+    "シリーズ": "Solar Flare armor",
+    "種類": "Melee",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Solar Flare Breastplate",
+    "シリーズ": "Solar Flare armor",
+    "種類": "Melee",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Solar Flare Leggings",
+    "シリーズ": "Solar Flare armor",
+    "種類": "Melee",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Vortex Helmet",
+    "シリーズ": "Vortex armor",
+    "種類": "Range",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Vortex Breastplate",
+    "シリーズ": "Vortex armor",
+    "種類": "Range",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Vortex Leggings",
+    "シリーズ": "Vortex armor",
+    "種類": "Range",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Nebula Helmet",
+    "シリーズ": "Nebula armor",
+    "種類": "Magic",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Nebula Breastplate",
+    "シリーズ": "Nebula armor",
+    "種類": "Magic",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Nebula Leggings",
+    "シリーズ": "Nebula armor",
+    "種類": "Magic",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Stardust Helmet",
+    "シリーズ": "Stardust armor",
+    "種類": "Summon",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Stardust Plate",
+    "シリーズ": "Stardust armor",
+    "種類": "Summon",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Stardust Leggings",
+    "シリーズ": "Stardust armor",
+    "種類": "Summon",
+    "部位": "Leg"
+  },
+  {
+    "防具名": "Magic Hat",
+    "シリーズ": "Magic Hat",
+    "種類": "Magic",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Wizard Hat",
+    "シリーズ": "Wizard Hat",
+    "種類": "Magic",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Amethyst Robe",
+    "シリーズ": "Amethyst Robe",
+    "種類": "Magic",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Topaz Robe",
+    "シリーズ": "Topaz Robe",
+    "種類": "Magic",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Sapphire Robe",
+    "シリーズ": "Sapphire Robe",
+    "種類": "Magic",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Emerald Robe",
+    "シリーズ": "Emerald Robe",
+    "種類": "Magic",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Ruby Robe",
+    "シリーズ": "Ruby Robe",
+    "種類": "Magic",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Amber Robe",
+    "シリーズ": "Amber Robe",
+    "種類": "Magic",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Diamond Robe",
+    "シリーズ": "Diamond Robe",
+    "種類": "Magic",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Gypsy Robe",
+    "シリーズ": "Mystic Robe",
+    "種類": "Magic",
+    "部位": "Body"
+  },
+  {
+    "防具名": "Empty Bucket",
+    "シリーズ": "Empty Bucket",
+    "種類": "All",
+    "部位": "Head"
+  },
+  { "防具名": "Goggles", "シリーズ": "Goggles", "種類": "All", "部位": "Head" },
+  {
+    "防具名": "Diving Helmet",
+    "シリーズ": "Diving Helmet",
+    "種類": "All",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Night Vision Helmet",
+    "シリーズ": "Night Vision Helmet",
+    "種類": "All",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Viking Helmet",
+    "シリーズ": "Viking Helmet",
+    "種類": "All",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Ultrabright Helmet",
+    "シリーズ": "Ultrabright Helmet",
+    "種類": "All",
+    "部位": "Head"
+  },
+  {
+    "防具名": "Flinx Fur Coat",
+    "シリーズ": "Flinx Fur Coat",
+    "種類": "All",
+    "部位": "Body"
+  },
+  { "防具名": "Gi", "シリーズ": "Gi", "種類": "All", "部位": "Body" },
+  {
+    "防具名": "Moon Lord Legs",
+    "シリーズ": "Moon Lord Legs",
+    "種類": "All",
+    "部位": "Leg;"
+  }
+]

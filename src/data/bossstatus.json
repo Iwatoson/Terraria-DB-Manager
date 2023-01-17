@@ -1,0 +1,160 @@
+[
+  { "名前": "Moon Lord", "部位": "Head", "HP": 86062, "最大防御力": 50 },
+  {
+    "名前": "Moon Lord",
+    "部位": "Right Hand",
+    "HP": 47812,
+    "最大防御力": 40
+  },
+  {
+    "名前": "Moon Lord",
+    "部位": "Left Hand",
+    "HP": 47812,
+    "最大防御力": 40
+  },
+  { "名前": "Moon Lord", "部位": "Core", "HP": 95625, "最大防御力": 70 },
+  {
+    "名前": "True Eye of Cthulhu",
+    "部位": "Body",
+    "HP": 300,
+    "最大防御力": 0
+  },
+  {
+    "名前": "Lunatic Cultist",
+    "部位": "Body",
+    "HP": 61000,
+    "最大防御力": 42
+  },
+  {
+    "名前": "Empress of Light",
+    "部位": "Body",
+    "HP": 124950,
+    "最大防御力": 60
+  },
+  { "名前": "Duke Fishron", "部位": "Body", "HP": 91800, "最大防御力": 50 },
+  { "名前": "Golem", "部位": "Head", "HP": 47812, "最大防御力": 20 },
+  { "名前": "Golem", "部位": "Right Fist", "HP": 19125, "最大防御力": 28 },
+  { "名前": "Golem", "部位": "Left Fist", "HP": 19125, "最大防御力": 28 },
+  { "名前": "Golem", "部位": "Body", "HP": 28687, "最大防御力": 30 },
+  { "名前": "Plantera", "部位": "Body", "HP": 53550, "最大防御力": 36 },
+  { "名前": "Plantera", "部位": "Hook", "HP": 12000, "最大防御力": 24 },
+  { "名前": "Plantera", "部位": "Tentacle", "HP": 2550, "最大防御力": 20 },
+  {
+    "名前": "Skeletron Prime",
+    "部位": "Body",
+    "HP": 53550,
+    "最大防御力": 48
+  },
+  {
+    "名前": "Skeletron Prime",
+    "部位": "Prime Cannon",
+    "HP": 13387,
+    "最大防御力": 23
+  },
+  {
+    "名前": "Skeletron Prime",
+    "部位": "Prime Saw",
+    "HP": 17212,
+    "最大防御力": 38
+  },
+  {
+    "名前": "Skeletron Prime",
+    "部位": "Prime Vice",
+    "HP": 17212,
+    "最大防御力": 34
+  },
+  {
+    "名前": "Skeletron Prime",
+    "部位": "Prime Laser",
+    "HP": 11475,
+    "最大防御力": 20
+  },
+  {
+    "名前": "The Destroyer",
+    "部位": "Head",
+    "HP": 153000,
+    "最大防御力": 0
+  },
+  {
+    "名前": "The Destroyer",
+    "部位": "Body",
+    "HP": 153000,
+    "最大防御力": 30
+  },
+  {
+    "名前": "The Destroyer",
+    "部位": "Tail",
+    "HP": 153000,
+    "最大防御力": 35
+  },
+  { "名前": "The Destroyer", "部位": "probe", "HP": 200, "最大防御力": 20 },
+  {
+    "名前": "The Twins",
+    "部位": "Retinazer",
+    "HP": 38250,
+    "最大防御力": 20
+  },
+  {
+    "名前": "The Twins",
+    "部位": "Spazmatism",
+    "HP": 43987,
+    "最大防御力": 28
+  },
+  { "名前": "Queen Slime", "部位": "Body", "HP": 36720, "最大防御力": 26 },
+  {
+    "名前": "Wall of Flesh",
+    "部位": "Mouth",
+    "HP": 14280,
+    "最大防御力": 18
+  },
+  { "名前": "Wall of Flesh", "部位": "Eye", "HP": 14280, "最大防御力": 6 },
+  {
+    "名前": "Wall of Flesh",
+    "部位": "The Hungry1",
+    "HP": 503,
+    "最大防御力": 40
+  },
+  {
+    "名前": "Wall of Flesh",
+    "部位": "The Hungry2",
+    "HP": 168,
+    "最大防御力": 6
+  },
+  { "名前": "Deerclops", "部位": "Body", "HP": 15172, "最大防御力": 10 },
+  { "名前": "Skeletron", "部位": "Body", "HP": 11220, "最大防御力": 60 },
+  {
+    "名前": "Skeletron",
+    "部位": "Right Hand",
+    "HP": 1989,
+    "最大防御力": 14
+  },
+  {
+    "名前": "Skeletron",
+    "部位": "Left Hand",
+    "HP": 1989,
+    "最大防御力": 14
+  },
+  { "名前": "Queen Bee", "部位": "Body", "HP": 6069, "最大防御力": 28 },
+  {
+    "名前": "Brain of Cthulhu",
+    "部位": "Body",
+    "HP": 2709,
+    "最大防御力": 14
+  },
+  {
+    "名前": "Brain of Cthulhu",
+    "部位": "Creeper",
+    "HP": 216,
+    "最大防御力": 10
+  },
+  { "名前": "Eater of Worlds", "部位": "Head", "HP": 150, "最大防御力": 2 },
+  { "名前": "Eater of Worlds", "部位": "Body", "HP": 150, "最大防御力": 4 },
+  { "名前": "Eater of Worlds", "部位": "Tail", "HP": 150, "最大防御力": 8 },
+  {
+    "名前": "Eye of Cthulhu",
+    "部位": "Body",
+    "HP": 4641,
+    "最大防御力": 12
+  },
+  { "名前": "King Slime", "部位": "Body", "HP": 3570, "最大防御力": 10 }
+]
