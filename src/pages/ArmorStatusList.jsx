@@ -49,45 +49,23 @@ export default function ArmorStatusList() {
           }}
         >
           <tr>
-            <th
-              style={{
-                width: 0,
-              }}
-            >
-              防具名
-            </th>
-            <th
-              style={{
-                width: 0,
-              }}
-            >
-              部位
-            </th>
-            <th
-              style={{
-                width: 0,
-              }}
-            >
-              防御力
-            </th>
-            <th
-              style={{
-                width: 0,
-              }}
-            >
-              効果
-            </th>
+            {Object.keys(armorStatuses[0]).map((head) => {
+              return (
+                <th key={head} style={{ width: 0 }}>
+                  {head}
+                </th>
+              );
+            })}
           </tr>
         </thead>
         <tbody>
           {armorStatuses.map((armor) => {
             if (armor.部位 == selectParts || selectParts == "default") {
               return (
-                <tr key={armor.名前}>
-                  <td>{armor.名前}</td>
-                  <td>{armor.部位}</td>
-                  <td>{armor.防御力}</td>
-                  <td>{armor.効果}</td>
+                <tr key={armor.防具名}>
+                  {Object.keys(armorStatuses[0]).map((head) => {
+                    return <td key={head}>{armor[`${head}`]}</td>;
+                  })}
                 </tr>
               );
             }

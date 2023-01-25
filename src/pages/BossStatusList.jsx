@@ -12,7 +12,7 @@ export default function BossStatusList() {
     return <div>now loading....</div>;
   }
   const name = Array.from(
-    new Map(bossStatuses.map((item) => [item.名前, item])).values()
+    new Map(bossStatuses.map((item) => [item.ボス名, item])).values()
   );
   return (
     <>
@@ -33,8 +33,8 @@ export default function BossStatusList() {
           <option value="default">------</option>
           {name.map((names) => {
             return (
-              <option value={names.名前} key={names.名前}>
-                {names.名前}
+              <option value={names.ボス名} key={names.ボス名}>
+                {names.ボス名}
               </option>
             );
           })}
@@ -49,45 +49,28 @@ export default function BossStatusList() {
           }}
         >
           <tr>
-            <th
-              style={{
-                width: 0,
-              }}
-            >
-              名前
-            </th>
-            <th
-              style={{
-                width: 0,
-              }}
-            >
-              部位
-            </th>
-            <th
-              style={{
-                width: 0,
-              }}
-            >
-              HP
-            </th>
-            <th
-              style={{
-                width: 0,
-              }}
-            >
-              最大防御力
-            </th>
+            {Object.keys(bossStatuses[0]).map((head) => {
+              return (
+                <th
+                  key={head}
+                  style={{
+                    width: 0,
+                  }}
+                >
+                  {head}
+                </th>
+              );
+            })}
           </tr>
         </thead>
         <tbody>
           {bossStatuses.map((bossStatus) => {
-            if (bossStatus.名前 == selectNames || selectNames == "default") {
+            if (bossStatus.ボス名 == selectNames || selectNames == "default") {
               return (
-                <tr key={bossStatus.名前 + bossStatus.部位}>
-                  <td>{bossStatus.名前}</td>
-                  <td>{bossStatus.部位}</td>
-                  <td>{bossStatus.HP}</td>
-                  <td>{bossStatus.最大防御力}</td>
+                <tr key={bossStatus.ボス名 + bossStatus.部位}>
+                  {Object.keys(bossStatuses[0]).map((head) => {
+                    return <td key={head}>{bossStatus[`${head}`]}</td>;
+                  })}
                 </tr>
               );
             }

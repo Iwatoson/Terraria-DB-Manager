@@ -1129,13 +1129,13 @@
   },
   {
     "防具名": "Beetle Scale Mail",
-    "シリーズ": "Beetle armor(Scale Mail",
+    "シリーズ": "Beetle armor(Scale Mail)",
     "種類": "Melee",
     "部位": "Body"
   },
   {
     "防具名": "Beetle Shell",
-    "シリーズ": "Beetle armor(Shell",
+    "シリーズ": "Beetle armor(Shell)",
     "種類": "Melee",
     "部位": "Body"
   },
@@ -1177,13 +1177,13 @@
   },
   {
     "防具名": "Spectre Mask",
-    "シリーズ": "Spectre armor(Mask",
+    "シリーズ": "Spectre armor(Mask)",
     "種類": "Magic",
     "部位": "Head"
   },
   {
     "防具名": "Spectre Hood",
-    "シリーズ": "Spectre armor(Hood",
+    "シリーズ": "Spectre armor(Hood)",
     "種類": "Magic",
     "部位": "Head"
   },

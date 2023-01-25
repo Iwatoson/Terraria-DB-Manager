@@ -49,34 +49,13 @@ export default function ArmorList() {
           }}
         >
           <tr>
-            <th
-              style={{
-                width: 0,
-              }}
-            >
-              防具名
-            </th>
-            <th
-              style={{
-                width: 0,
-              }}
-            >
-              シリーズ
-            </th>
-            <th
-              style={{
-                width: 0,
-              }}
-            >
-              種類
-            </th>
-            <th
-              style={{
-                width: 0,
-              }}
-            >
-              部位
-            </th>
+            {Object.keys(armors[0]).map((head) => {
+              return (
+                <th key={head} style={{ width: 0 }}>
+                  {head}
+                </th>
+              );
+            })}
           </tr>
         </thead>
         <tbody>
@@ -84,10 +63,9 @@ export default function ArmorList() {
             if (armor.シリーズ == selectSeries || selectSeries == "default") {
               return (
                 <tr key={armor.防具名}>
-                  <td>{armor.防具名}</td>
-                  <td>{armor.シリーズ}</td>
-                  <td>{armor.種類}</td>
-                  <td>{armor.部位}</td>
+                  {Object.keys(armors[0]).map((head) => {
+                    return <td key={head}>{armor[`${head}`]}</td>;
+                  })}
                 </tr>
               );
             }

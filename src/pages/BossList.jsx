@@ -12,7 +12,7 @@ export default function BossList() {
     return <div>now loading....</div>;
   }
   const name = Array.from(
-    new Map(bosses.map((item) => [item.名前, item])).values()
+    new Map(bosses.map((item) => [item.ボス名, item])).values()
   );
   return (
     <>
@@ -33,8 +33,8 @@ export default function BossList() {
           <option value="default">------</option>
           {name.map((names) => {
             return (
-              <option value={names.名前} key={names.名前}>
-                {names.名前}
+              <option value={names.ボス名} key={names.ボス名}>
+                {names.ボス名}
               </option>
             );
           })}
@@ -65,9 +65,9 @@ export default function BossList() {
         </thead>
         <tbody>
           {bosses.map((boss) => {
-            if (boss.名前 == selectNames || selectNames == "default") {
+            if (boss.ボス名 == selectNames || selectNames == "default") {
               return (
-                <tr key={boss.名前 + boss.部位}>
+                <tr key={boss.ボス名 + boss.部位}>
                   {Object.keys(bosses[0]).map((head) => {
                     return <td key={head}>{boss[`${head}`]}</td>;
                   })}

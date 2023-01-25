@@ -49,41 +49,18 @@ export default function BossAttackList() {
           }}
         >
           <tr>
-            <th
-              style={{
-                width: 0,
-              }}
-            >
-              ボス名
-            </th>
-            <th
-              style={{
-                width: 0,
-              }}
-            >
-              部位
-            </th>
-            <th
-              style={{
-                width: 0,
-              }}
-            >
-              攻撃名
-            </th>
-            <th
-              style={{
-                width: 0,
-              }}
-            >
-              ダメージ
-            </th>
-            <th
-              style={{
-                width: 0,
-              }}
-            >
-              説明
-            </th>
+            {Object.keys(bossAttacks[0]).map((head) => {
+              return (
+                <th
+                  key={head}
+                  style={{
+                    width: 0,
+                  }}
+                >
+                  {head}
+                </th>
+              );
+            })}
           </tr>
         </thead>
         <tbody>
@@ -93,11 +70,9 @@ export default function BossAttackList() {
                 <tr
                   key={bossAttack.ボス名 + bossAttack.部位 + bossAttack.攻撃名}
                 >
-                  <td>{bossAttack.ボス名}</td>
-                  <td>{bossAttack.部位}</td>
-                  <td>{bossAttack.攻撃名}</td>
-                  <td>{bossAttack.ダメージ}</td>
-                  <td>{bossAttack.説明}</td>
+                  {Object.keys(bossAttacks[0]).map((head) => {
+                    return <td key={head}>{bossAttack[`${head}`]}</td>;
+                  })}
                 </tr>
               );
             }
