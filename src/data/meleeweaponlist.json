@@ -1,0 +1,1034 @@
+[
+  {
+    "武器名": "Copper Shortsword",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 5
+  },
+  {
+    "武器名": "Wooden Sword",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 7
+  },
+  {
+    "武器名": "Tin Shortsword",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 7
+  },
+  {
+    "武器名": "Rich Mahogany Sword",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 8
+  },
+  {
+    "武器名": "Boreal Wood Sword",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 8
+  },
+  {
+    "武器名": "Palm Wood Sword",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 8
+  },
+  {
+    "武器名": "Cactus Sword",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 10
+  },
+  {
+    "武器名": "Copper Broadsword",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 9
+  },
+  {
+    "武器名": "Iron Shortsword",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 8
+  },
+  {
+    "武器名": "Tin Broadsword",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 10
+  },
+  {
+    "武器名": "Lead Shortsword",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 9
+  },
+  {
+    "武器名": "Silver Shortsword",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 9
+  },
+  {
+    "武器名": "Umbrella",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 10
+  },
+  {
+    "武器名": "Breathing Reed",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 10
+  },
+  {
+    "武器名": "Ebonwood Sword",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 11
+  },
+  {
+    "武器名": "Shadewood Sword",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 11
+  },
+  {
+    "武器名": "Iron Broadsword",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 12
+  },
+  {
+    "武器名": "Tungsten Shortsword",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 10
+  },
+  {
+    "武器名": "Lead Broadsword",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 13
+  },
+  {
+    "武器名": "Silver Broadsword",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 14
+  },
+  {
+    "武器名": "Tungsten Broadsword",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 14
+  },
+  {
+    "武器名": "Gold Shortsword",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 12
+  },
+  {
+    "武器名": "Zombie Arm",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 15
+  },
+  {
+    "武器名": "Ruler",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 12
+  },
+  {
+    "武器名": "Bladed Glove",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 14
+  },
+  {
+    "武器名": "Ash Wood Sword",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 13
+  },
+  {
+    "武器名": "Gold Broadsword",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 15
+  },
+  {
+    "武器名": "Platinum Shortsword",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 13
+  },
+  {
+    "武器名": "Mandible Blade",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 16
+  },
+  {
+    "武器名": "Stylish Scissors",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 14
+  },
+  {
+    "武器名": "Platinum Broadsword",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 16
+  },
+  {
+    "武器名": "Flymeal",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 15
+  },
+  {
+    "武器名": "Gladius",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 15
+  },
+  {
+    "武器名": "Bone Sword",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 19
+  },
+  {
+    "武器名": "Katana",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 18
+  },
+  {
+    "武器名": "Candy Cane Sword",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 19
+  },
+  {
+    "武器名": "Ice Blade",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 17
+  },
+  {
+    "武器名": "Bat Bat",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 36
+  },
+  {
+    "武器名": "Light's Bane",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 16
+  },
+  {
+    "武器名": "Tentacle Spike",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 19
+  },
+  {
+    "武器名": "Exotic Scimitar",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 20
+  },
+  {
+    "武器名": "Blood Butcherer",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 22
+  },
+  {
+    "武器名": "Starfury",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 25
+  },
+  {
+    "武器名": "Enchanted Sword",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 23
+  },
+  {
+    "武器名": "Purple Clubberfish",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 35
+  },
+  {
+    "武器名": "Falcon Blade",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 25
+  },
+  {
+    "武器名": "Blade of Grass",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 18
+  },
+  {
+    "武器名": "Phaseblade",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 26
+  },
+  {
+    "武器名": "Volcano",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 40
+  },
+  {
+    "武器名": "Bee Keeper",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 30
+  },
+  {
+    "武器名": "Tragic Umbrella",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 15
+  },
+  {
+    "武器名": "Muramasa",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 24
+  },
+  {
+    "武器名": "Night's Edge",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 40
+  },
+  {
+    "武器名": "Pearlwood Sword",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 30
+  },
+  {
+    "武器名": "Classy Cane",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 16
+  },
+  {
+    "武器名": "Slap Hand",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 55
+  },
+  {
+    "武器名": "Cobalt Sword",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 40
+  },
+  {
+    "武器名": "Phasesaber",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 48
+  },
+  {
+    "武器名": "Ice Sickle",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 50
+  },
+  {
+    "武器名": "Breaker Blade",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 70
+  },
+  {
+    "武器名": "Palladium Sword",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 49
+  },
+  {
+    "武器名": "Mythril Sword",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 50
+  },
+  {
+    "武器名": "Ham Bat",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 57
+  },
+  {
+    "武器名": "Frostbrand",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 49
+  },
+  {
+    "武器名": "Cutlass",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 53
+  },
+  {
+    "武器名": "Orichalcum Sword",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 59
+  },
+  {
+    "武器名": "Beam Sword",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 52
+  },
+  {
+    "武器名": "Bladetongue",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 55
+  },
+  {
+    "武器名": "Adamantite Sword",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 61
+  },
+  {
+    "武器名": "Titanium Sword",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 61
+  },
+  {
+    "武器名": "Fetid Baghnakhs",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 60
+  },
+  {
+    "武器名": "Excalibur",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 72
+  },
+  {
+    "武器名": "Brand of the Inferno",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 95
+  },
+  {
+    "武器名": "True Night's Edge",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 70
+  },
+  {
+    "武器名": "Seedler",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 50
+  },
+  {
+    "武器名": "Chlorophyte Saber",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 57
+  },
+  {
+    "武器名": "Death Sickle",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 57
+  },
+  {
+    "武器名": "True Excalibur",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 72
+  },
+  {
+    "武器名": "The Horseman's Blade",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 150
+  },
+  {
+    "武器名": "Keybrand",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 105
+  },
+  {
+    "武器名": "Psycho Knife",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 85
+  },
+  {
+    "武器名": "Christmas Tree Sword",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 86
+  },
+  {
+    "武器名": "Chlorophyte Claymore",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 95
+  },
+  {
+    "武器名": "Terra Blade",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 85
+  },
+  {
+    "武器名": "Influx Waver",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 100
+  },
+  {
+    "武器名": "Flying Dragon",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 180
+  },
+  {
+    "武器名": "Starlight",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 80
+  },
+  {
+    "武器名": "Star Wrath",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 170
+  },
+  {
+    "武器名": "Meowmere",
+    "種類": "melee",
+    "シリーズ": "sword",
+    "攻撃力": 250
+  },
+  {
+    "武器名": "Wooden Yoyo",
+    "種類": "melee",
+    "シリーズ": "yoyo",
+    "攻撃力": 9
+  },
+  {
+    "武器名": "Rally",
+    "種類": "melee",
+    "シリーズ": "yoyo",
+    "攻撃力": 14
+  },
+  {
+    "武器名": "Malaise",
+    "種類": "melee",
+    "シリーズ": "yoyo",
+    "攻撃力": 16
+  },
+  {
+    "武器名": "Artery",
+    "種類": "melee",
+    "シリーズ": "yoyo",
+    "攻撃力": 17
+  },
+  {
+    "武器名": "Amazon",
+    "種類": "melee",
+    "シリーズ": "yoyo",
+    "攻撃力": 18
+  },
+  {
+    "武器名": "Code 1",
+    "種類": "melee",
+    "シリーズ": "yoyo",
+    "攻撃力": 21
+  },
+  {
+    "武器名": "Hive-Five",
+    "種類": "melee",
+    "シリーズ": "yoyo",
+    "攻撃力": 24
+  },
+  {
+    "武器名": "Valor",
+    "種類": "melee",
+    "シリーズ": "yoyo",
+    "攻撃力": 28
+  },
+  {
+    "武器名": "Cascade",
+    "種類": "melee",
+    "シリーズ": "yoyo",
+    "攻撃力": 27
+  },
+  {
+    "武器名": "Format:C",
+    "種類": "melee",
+    "シリーズ": "yoyo",
+    "攻撃力": 39
+  },
+  {
+    "武器名": "Gradient",
+    "種類": "melee",
+    "シリーズ": "yoyo",
+    "攻撃力": 49
+  },
+  {
+    "武器名": "Chik",
+    "種類": "melee",
+    "シリーズ": "yoyo",
+    "攻撃力": 39
+  },
+  {
+    "武器名": "Hel-Fire",
+    "種類": "melee",
+    "シリーズ": "yoyo",
+    "攻撃力": 41
+  },
+  {
+    "武器名": "Amarok",
+    "種類": "melee",
+    "シリーズ": "yoyo",
+    "攻撃力": 43
+  },
+  {
+    "武器名": "Code 2",
+    "種類": "melee",
+    "シリーズ": "yoyo",
+    "攻撃力": 54
+  },
+  {
+    "武器名": "Yelets",
+    "種類": "melee",
+    "シリーズ": "yoyo",
+    "攻撃力": 60
+  },
+  {
+    "武器名": "Red's Throw",
+    "種類": "melee",
+    "シリーズ": "yoyo",
+    "攻撃力": 70
+  },
+  {
+    "武器名": "Valkyrie Yoyo",
+    "種類": "melee",
+    "シリーズ": "yoyo",
+    "攻撃力": 70
+  },
+  {
+    "武器名": "Kraken",
+    "種類": "melee",
+    "シリーズ": "yoyo",
+    "攻撃力": 95
+  },
+  {
+    "武器名": "The Eye of Cthulhu",
+    "種類": "melee",
+    "シリーズ": "yoyo",
+    "攻撃力": 115
+  },
+  {
+    "武器名": "Terrarian",
+    "種類": "melee",
+    "シリーズ": "yoyo",
+    "攻撃力": 190
+  },
+  {
+    "武器名": "Spear",
+    "種類": "melee",
+    "シリーズ": "spear",
+    "攻撃力": 8
+  },
+  {
+    "武器名": "Storm_Spear",
+    "種類": "melee",
+    "シリーズ": "spear",
+    "攻撃力": 21
+  },
+  {
+    "武器名": "Trident",
+    "種類": "melee",
+    "シリーズ": "spear",
+    "攻撃力": 14
+  },
+  {
+    "武器名": "The Rotted Fork",
+    "種類": "melee",
+    "シリーズ": "spear",
+    "攻撃力": 17
+  },
+  {
+    "武器名": "Swordfish",
+    "種類": "melee",
+    "シリーズ": "spear",
+    "攻撃力": 19
+  },
+  {
+    "武器名": "Dark Lance",
+    "種類": "melee",
+    "シリーズ": "spear",
+    "攻撃力": 34
+  },
+  {
+    "武器名": "Cobalt Naginata",
+    "種類": "melee",
+    "シリーズ": "spear",
+    "攻撃力": 44
+  },
+  {
+    "武器名": "Palladium Pike",
+    "種類": "melee",
+    "シリーズ": "spear",
+    "攻撃力": 44
+  },
+  {
+    "武器名": "Mythril Halberd",
+    "種類": "melee",
+    "シリーズ": "spear",
+    "攻撃力": 45
+  },
+  {
+    "武器名": "Orichalcum Halberd",
+    "種類": "melee",
+    "シリーズ": "spear",
+    "攻撃力": 46
+  },
+  {
+    "武器名": "Adamantite Glaive",
+    "種類": "melee",
+    "シリーズ": "spear",
+    "攻撃力": 49
+  },
+  {
+    "武器名": "Titanium Trident",
+    "種類": "melee",
+    "シリーズ": "spear",
+    "攻撃力": 48
+  },
+  {
+    "武器名": "Obsidian Swordfish",
+    "種類": "melee",
+    "シリーズ": "spear",
+    "攻撃力": 70
+  },
+  {
+    "武器名": "Gungnir",
+    "種類": "melee",
+    "シリーズ": "spear",
+    "攻撃力": 61
+  },
+  {
+    "武器名": "Mushroom Spear",
+    "種類": "melee",
+    "シリーズ": "spear",
+    "攻撃力": 60
+  },
+  {
+    "武器名": "Ghastly Glaive",
+    "種類": "melee",
+    "シリーズ": "spear",
+    "攻撃力": 45
+  },
+  {
+    "武器名": "Chlorophyte Partisan",
+    "種類": "melee",
+    "シリーズ": "spear",
+    "攻撃力": 49
+  },
+  {
+    "武器名": "North Pole",
+    "種類": "melee",
+    "シリーズ": "spear",
+    "攻撃力": 80
+  },
+  {
+    "武器名": "Jousting Lance",
+    "種類": "melee",
+    "シリーズ": "lance",
+    "攻撃力": 60
+  },
+  {
+    "武器名": "Hallowed Jousting Lance",
+    "種類": "melee",
+    "シリーズ": "lance",
+    "攻撃力": 90
+  },
+  {
+    "武器名": "Shadow Jousting Lance",
+    "種類": "melee",
+    "シリーズ": "lance",
+    "攻撃力": 130
+  },
+  {
+    "武器名": "Wooden Boomerang",
+    "種類": "melee",
+    "シリーズ": "boomerang",
+    "攻撃力": 10
+  },
+  {
+    "武器名": "Enchanted Boomerang",
+    "種類": "melee",
+    "シリーズ": "boomerang",
+    "攻撃力": 17
+  },
+  {
+    "武器名": "Shroomerang",
+    "種類": "melee",
+    "シリーズ": "boomerang",
+    "攻撃力": 23
+  },
+  {
+    "武器名": "Fruitcake Chakram",
+    "種類": "melee",
+    "シリーズ": "boomerang",
+    "攻撃力": 19
+  },
+  {
+    "武器名": "Bloody Machete",
+    "種類": "melee",
+    "シリーズ": "boomerang",
+    "攻撃力": 20
+  },
+  {
+    "武器名": "Ice Boomerang",
+    "種類": "melee",
+    "シリーズ": "boomerang",
+    "攻撃力": 21
+  },
+  {
+    "武器名": "Thorn Chakram",
+    "種類": "melee",
+    "シリーズ": "boomerang",
+    "攻撃力": 25
+  },
+  {
+    "武器名": "Flamarang",
+    "種類": "melee",
+    "シリーズ": "boomerang",
+    "攻撃力": 49
+  },
+  {
+    "武器名": "Trimarang",
+    "種類": "melee",
+    "シリーズ": "boomerang",
+    "攻撃力": 21
+  },
+  {
+    "武器名": "Combat Wrench",
+    "種類": "melee",
+    "シリーズ": "boomerang",
+    "攻撃力": 25
+  },
+  {
+    "武器名": "Flying Knife",
+    "種類": "melee",
+    "シリーズ": "boomerang",
+    "攻撃力": 40
+  },
+  {
+    "武器名": "Bananarang",
+    "種類": "melee",
+    "シリーズ": "boomerang",
+    "攻撃力": 45
+  },
+  {
+    "武器名": "Sergeant United Shield",
+    "種類": "melee",
+    "シリーズ": "boomerang",
+    "攻撃力": 80
+  },
+  {
+    "武器名": "Light Disc",
+    "種類": "melee",
+    "シリーズ": "boomerang",
+    "攻撃力": 60
+  },
+  {
+    "武器名": "Paladin's Hammer",
+    "種類": "melee",
+    "シリーズ": "boomerang",
+    "攻撃力": 90
+  },
+  {
+    "武器名": "Possessed Hatchet",
+    "種類": "melee",
+    "シリーズ": "boomerang",
+    "攻撃力": 80
+  },
+  {
+    "武器名": "Chain Knife",
+    "種類": "melee",
+    "シリーズ": "flail",
+    "攻撃力": 12
+  },
+  {
+    "武器名": "Mace",
+    "種類": "melee",
+    "シリーズ": "flail",
+    "攻撃力": 18
+  },
+  {
+    "武器名": "Flaming Mace",
+    "種類": "melee",
+    "シリーズ": "flail",
+    "攻撃力": 18
+  },
+  {
+    "武器名": "Ball O' Hurt",
+    "種類": "melee",
+    "シリーズ": "flail",
+    "攻撃力": 30
+  },
+  {
+    "武器名": "The Meatball",
+    "種類": "melee",
+    "シリーズ": "flail",
+    "攻撃力": 34
+  },
+  {
+    "武器名": "Blue Moon",
+    "種類": "melee",
+    "シリーズ": "flail",
+    "攻撃力": 54
+  },
+  {
+    "武器名": "Sunfury",
+    "種類": "melee",
+    "シリーズ": "flail",
+    "攻撃力": 64
+  },
+  {
+    "武器名": "Chain Guillotines",
+    "種類": "melee",
+    "シリーズ": "flail",
+    "攻撃力": 59
+  },
+  {
+    "武器名": "Dao of Pow",
+    "種類": "melee",
+    "シリーズ": "flail",
+    "攻撃力": 100
+  },
+  {
+    "武器名": "Anchor",
+    "種類": "melee",
+    "シリーズ": "flail",
+    "攻撃力": 70
+  },
+  {
+    "武器名": "KO Cannon",
+    "種類": "melee",
+    "シリーズ": "flail",
+    "攻撃力": 40
+  },
+  {
+    "武器名": "Drippler Crippler",
+    "種類": "melee",
+    "シリーズ": "flail",
+    "攻撃力": 110
+  },
+  {
+    "武器名": "Flower Pow",
+    "種類": "melee",
+    "シリーズ": "flail",
+    "攻撃力": 130
+  },
+  {
+    "武器名": "Golem Fist",
+    "種類": "melee",
+    "シリーズ": "flail",
+    "攻撃力": 90
+  },
+  {
+    "武器名": "Flairon",
+    "種類": "melee",
+    "シリーズ": "flail",
+    "攻撃力": 66
+  },
+  {
+    "武器名": "Terragrim",
+    "種類": "melee",
+    "シリーズ": "other",
+    "攻撃力": 17
+  },
+  {
+    "武器名": "Shadowflame Knife",
+    "種類": "melee",
+    "シリーズ": "other",
+    "攻撃力": 38
+  },
+  {
+    "武器名": "Arkhalis",
+    "種類": "melee",
+    "シリーズ": "other",
+    "攻撃力": 25
+  },
+  {
+    "武器名": "Sleepy Octopod",
+    "種類": "melee",
+    "シリーズ": "other",
+    "攻撃力": 50
+  },
+  {
+    "武器名": "Scourge of the Corruptor",
+    "種類": "melee",
+    "シリーズ": "other",
+    "攻撃力": 70
+  },
+  {
+    "武器名": "Vampire Knives",
+    "種類": "melee",
+    "シリーズ": "other",
+    "攻撃力": 29
+  },
+  {
+    "武器名": "Sky Dragon's Fury",
+    "種類": "melee",
+    "シリーズ": "other",
+    "攻撃力": 140
+  },
+  {
+    "武器名": "Solar Eruption",
+    "種類": "melee",
+    "シリーズ": "other",
+    "攻撃力": 105
+  },
+  {
+    "武器名": "Daybreak",
+    "種類": "melee",
+    "シリーズ": "other",
+    "攻撃力": 150
+  },
+  {
+    "武器名": "Zenith",
+    "種類": "melee",
+    "シリーズ": "other",
+    "攻撃力": 190
+  }
+]

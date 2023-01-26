@@ -1,0 +1,668 @@
+[
+  {
+    "武器名": "Wooden Bow",
+    "種類": "range",
+    "シリーズ": "bow",
+    "攻撃力": 4
+  },
+  {
+    "武器名": "Boreal Wood Bow",
+    "種類": "range",
+    "シリーズ": "bow",
+    "攻撃力": 6
+  },
+  {
+    "武器名": "Palm Wood Bow",
+    "種類": "range",
+    "シリーズ": "bow",
+    "攻撃力": 6
+  },
+  {
+    "武器名": "Rich Mahogany Bow",
+    "種類": "range",
+    "シリーズ": "bow",
+    "攻撃力": 6
+  },
+  {
+    "武器名": "Copper_Bow",
+    "種類": "range",
+    "シリーズ": "bow",
+    "攻撃力": 6
+  },
+  {
+    "武器名": "Tin Bow",
+    "種類": "range",
+    "シリーズ": "bow",
+    "攻撃力": 7
+  },
+  {
+    "武器名": "Ebonwood Bow",
+    "種類": "range",
+    "シリーズ": "bow",
+    "攻撃力": 8
+  },
+  {
+    "武器名": "Shadewood Bow",
+    "種類": "range",
+    "シリーズ": "bow",
+    "攻撃力": 8
+  },
+  {
+    "武器名": "Iron Bow",
+    "種類": "range",
+    "シリーズ": "bow",
+    "攻撃力": 8
+  },
+  {
+    "武器名": "Lead Bow",
+    "種類": "range",
+    "シリーズ": "bow",
+    "攻撃力": 9
+  },
+  {
+    "武器名": "Silver Bow",
+    "種類": "range",
+    "シリーズ": "bow",
+    "攻撃力": 9
+  },
+  {
+    "武器名": "Tungsten Bow",
+    "種類": "range",
+    "シリーズ": "bow",
+    "攻撃力": 10
+  },
+  {
+    "武器名": "Ash Wood Bow",
+    "種類": "range",
+    "シリーズ": "bow",
+    "攻撃力": 10
+  },
+  {
+    "武器名": "Gold Bow",
+    "種類": "range",
+    "シリーズ": "bow",
+    "攻撃力": 11
+  },
+  {
+    "武器名": "Platinum Bow",
+    "種類": "range",
+    "シリーズ": "bow",
+    "攻撃力": 13
+  },
+  {
+    "武器名": "Demon Bow",
+    "種類": "range",
+    "シリーズ": "bow",
+    "攻撃力": 14
+  },
+  {
+    "武器名": "Tendon Bow",
+    "種類": "range",
+    "シリーズ": "bow",
+    "攻撃力": 19
+  },
+  {
+    "武器名": "Blood Rain Bow",
+    "種類": "range",
+    "シリーズ": "bow",
+    "攻撃力": 14
+  },
+  {
+    "武器名": "Molten Fury",
+    "種類": "range",
+    "シリーズ": "bow",
+    "攻撃力": 31
+  },
+  {
+    "武器名": "The Bee's Knees",
+    "種類": "range",
+    "シリーズ": "bow",
+    "攻撃力": 23
+  },
+  {
+    "武器名": "Hellwing Bow",
+    "種類": "range",
+    "シリーズ": "bow",
+    "攻撃力": 22
+  },
+  {
+    "武器名": "Pearlwood Bow",
+    "種類": "range",
+    "シリーズ": "bow",
+    "攻撃力": 9
+  },
+  {
+    "武器名": "Daedalus Stormbow",
+    "種類": "range",
+    "シリーズ": "bow",
+    "攻撃力": 38
+  },
+  {
+    "武器名": "Ice Bow",
+    "種類": "range",
+    "シリーズ": "bow",
+    "攻撃力": 39
+  },
+  {
+    "武器名": "Shadowflame Bow",
+    "種類": "range",
+    "シリーズ": "bow",
+    "攻撃力": 47
+  },
+  {
+    "武器名": "Marrow",
+    "種類": "range",
+    "シリーズ": "bow",
+    "攻撃力": 53
+  },
+  {
+    "武器名": "Pulse Bow",
+    "種類": "range",
+    "シリーズ": "bow",
+    "攻撃力": 80
+  },
+  {
+    "武器名": "Phantom Phoenix",
+    "種類": "range",
+    "シリーズ": "bow",
+    "攻撃力": 32
+  },
+  {
+    "武器名": "Tsunami",
+    "種類": "range",
+    "シリーズ": "bow",
+    "攻撃力": 53
+  },
+  {
+    "武器名": "Aerial Bane",
+    "種類": "range",
+    "シリーズ": "bow",
+    "攻撃力": 39
+  },
+  {
+    "武器名": "Eventide",
+    "種類": "range",
+    "シリーズ": "bow",
+    "攻撃力": 50
+  },
+  {
+    "武器名": "Phantasm",
+    "種類": "range",
+    "シリーズ": "bow",
+    "攻撃力": 50
+  },
+  {
+    "武器名": "Cobalt Repeater",
+    "種類": "range",
+    "シリーズ": "repeater",
+    "攻撃力": 35
+  },
+  {
+    "武器名": "Palladium Repeater",
+    "種類": "range",
+    "シリーズ": "repeater",
+    "攻撃力": 37
+  },
+  {
+    "武器名": "Mythril Repeater",
+    "種類": "range",
+    "シリーズ": "repeater",
+    "攻撃力": 39
+  },
+  {
+    "武器名": "Orichalcum Repeater",
+    "種類": "range",
+    "シリーズ": "repeater",
+    "攻撃力": 40
+  },
+  {
+    "武器名": "Adamantite Repeater",
+    "種類": "range",
+    "シリーズ": "repeater",
+    "攻撃力": 42
+  },
+  {
+    "武器名": "Titanium Repeater",
+    "種類": "range",
+    "シリーズ": "repeater",
+    "攻撃力": 43
+  },
+  {
+    "武器名": "Hallowed Repeater",
+    "種類": "range",
+    "シリーズ": "repeater",
+    "攻撃力": 50
+  },
+  {
+    "武器名": "Chlorophyte Shotbow",
+    "種類": "range",
+    "シリーズ": "repeater",
+    "攻撃力": 34
+  },
+  {
+    "武器名": "Stake Launcher",
+    "種類": "range",
+    "シリーズ": "repeater",
+    "攻撃力": 75
+  },
+  {
+    "武器名": "Flare Gun",
+    "種類": "range",
+    "シリーズ": "gun",
+    "攻撃力": 2
+  },
+  {
+    "武器名": "Minishark",
+    "種類": "range",
+    "シリーズ": "gun",
+    "攻撃力": 6
+  },
+  {
+    "武器名": "Blowpipe",
+    "種類": "range",
+    "シリーズ": "gun",
+    "攻撃力": 9
+  },
+  {
+    "武器名": "Flintlock Pistol",
+    "種類": "range",
+    "シリーズ": "gun",
+    "攻撃力": 13
+  },
+  {
+    "武器名": "Snowball Cannon",
+    "種類": "range",
+    "シリーズ": "gun",
+    "攻撃力": 10
+  },
+  {
+    "武器名": "Boomstick",
+    "種類": "range",
+    "シリーズ": "gun",
+    "攻撃力": 14
+  },
+  {
+    "武器名": "Revolver",
+    "種類": "range",
+    "シリーズ": "gun",
+    "攻撃力": 20
+  },
+  {
+    "武器名": "Red Ryder",
+    "種類": "range",
+    "シリーズ": "gun",
+    "攻撃力": 20
+  },
+  {
+    "武器名": "Sandgun",
+    "種類": "range",
+    "シリーズ": "gun",
+    "攻撃力": 30
+  },
+  {
+    "武器名": "Musket",
+    "種類": "range",
+    "シリーズ": "gun",
+    "攻撃力": 31
+  },
+  {
+    "武器名": "The Undertaker",
+    "種類": "range",
+    "シリーズ": "gun",
+    "攻撃力": 19
+  },
+  {
+    "武器名": "Star Cannon",
+    "種類": "range",
+    "シリーズ": "gun",
+    "攻撃力": 55
+  },
+  {
+    "武器名": "Blowgun",
+    "種類": "range",
+    "シリーズ": "gun",
+    "攻撃力": 27
+  },
+  {
+    "武器名": "Quad-Barrel Shotgun",
+    "種類": "range",
+    "シリーズ": "gun",
+    "攻撃力": 14
+  },
+  {
+    "武器名": "Handgun",
+    "種類": "range",
+    "シリーズ": "gun",
+    "攻撃力": 26
+  },
+  {
+    "武器名": "Pew-matic Horn",
+    "種類": "range",
+    "シリーズ": "gun",
+    "攻撃力": 20
+  },
+  {
+    "武器名": "Phoenix Blaster",
+    "種類": "range",
+    "シリーズ": "gun",
+    "攻撃力": 30
+  },
+  {
+    "武器名": "Clockwork Assault Rifle",
+    "種類": "range",
+    "シリーズ": "gun",
+    "攻撃力": 17
+  },
+  {
+    "武器名": "Gatligator",
+    "種類": "range",
+    "シリーズ": "gun",
+    "攻撃力": 21
+  },
+  {
+    "武器名": "Shotgun",
+    "種類": "range",
+    "シリーズ": "gun",
+    "攻撃力": 24
+  },
+  {
+    "武器名": "Onyx Blaster",
+    "種類": "range",
+    "シリーズ": "gun",
+    "攻撃力": 24
+  },
+  {
+    "武器名": "Coin Gun",
+    "種類": "range",
+    "シリーズ": "gun",
+    "攻撃力": 0
+  },
+  {
+    "武器名": "Uzi",
+    "種類": "range",
+    "シリーズ": "gun",
+    "攻撃力": 30
+  },
+  {
+    "武器名": "Dart Rifle",
+    "種類": "range",
+    "シリーズ": "gun",
+    "攻撃力": 52
+  },
+  {
+    "武器名": "Dart Pistol",
+    "種類": "range",
+    "シリーズ": "gun",
+    "攻撃力": 28
+  },
+  {
+    "武器名": "Super Star Shooter",
+    "種類": "range",
+    "シリーズ": "gun",
+    "攻撃力": 60
+  },
+  {
+    "武器名": "Megashark",
+    "種類": "range",
+    "シリーズ": "gun",
+    "攻撃力": 25
+  },
+  {
+    "武器名": "Flamethrower",
+    "種類": "range",
+    "シリーズ": "gun",
+    "攻撃力": 35
+  },
+  {
+    "武器名": "Venus Magnum",
+    "種類": "range",
+    "シリーズ": "gun",
+    "攻撃力": 50
+  },
+  {
+    "武器名": "Tactical Shotgun",
+    "種類": "range",
+    "シリーズ": "gun",
+    "攻撃力": 29
+  },
+  {
+    "武器名": "Sniper Rifle",
+    "種類": "range",
+    "シリーズ": "gun",
+    "攻撃力": 185
+  },
+  {
+    "武器名": "Candy Corn Rifle",
+    "種類": "range",
+    "シリーズ": "gun",
+    "攻撃力": 44
+  },
+  {
+    "武器名": "Chain Gun",
+    "種類": "range",
+    "シリーズ": "gun",
+    "攻撃力": 31
+  },
+  {
+    "武器名": "Elf Melter",
+    "種類": "range",
+    "シリーズ": "gun",
+    "攻撃力": 53
+  },
+  {
+    "武器名": "Xenopopper",
+    "種類": "range",
+    "シリーズ": "gun",
+    "攻撃力": 45
+  },
+  {
+    "武器名": "Vortex Beater",
+    "種類": "range",
+    "シリーズ": "gun",
+    "攻撃力": 50
+  },
+  {
+    "武器名": "S.D.M.G.",
+    "種類": "range",
+    "シリーズ": "gun",
+    "攻撃力": 85
+  },
+  {
+    "武器名": "Grenade Launcher",
+    "種類": "range",
+    "シリーズ": "launcher",
+    "攻撃力": 60
+  },
+  {
+    "武器名": "Proximity Mine Launcher",
+    "種類": "range",
+    "シリーズ": "launcher",
+    "攻撃力": 80
+  },
+  {
+    "武器名": "Rocket Launcher",
+    "種類": "range",
+    "シリーズ": "launcher",
+    "攻撃力": 55
+  },
+  {
+    "武器名": "Nail Gun",
+    "種類": "range",
+    "シリーズ": "launcher",
+    "攻撃力": 85
+  },
+  {
+    "武器名": "Jack 'O Lantern Launcher",
+    "種類": "range",
+    "シリーズ": "launcher",
+    "攻撃力": 65
+  },
+  {
+    "武器名": "Snowman Cannon",
+    "種類": "range",
+    "シリーズ": "launcher",
+    "攻撃力": 67
+  },
+  {
+    "武器名": "Stynger",
+    "種類": "range",
+    "シリーズ": "launcher",
+    "攻撃力": 45
+  },
+  {
+    "武器名": "Electrosphere Launcher",
+    "種類": "range",
+    "シリーズ": "launcher",
+    "攻撃力": 40
+  },
+  {
+    "武器名": "Celebration",
+    "種類": "range",
+    "シリーズ": "launcher",
+    "攻撃力": 25
+  },
+  {
+    "武器名": "Celebration Mk2",
+    "種類": "range",
+    "シリーズ": "launcher",
+    "攻撃力": 50
+  },
+  {
+    "武器名": "Snowball",
+    "種類": "range",
+    "シリーズ": "consumable",
+    "攻撃力": 8
+  },
+  {
+    "武器名": "Shuriken",
+    "種類": "range",
+    "シリーズ": "consumable",
+    "攻撃力": 10
+  },
+  {
+    "武器名": "Rotten Egg",
+    "種類": "range",
+    "シリーズ": "consumable",
+    "攻撃力": 13
+  },
+  {
+    "武器名": "Throwing Knife",
+    "種類": "range",
+    "シリーズ": "consumable",
+    "攻撃力": 12
+  },
+  {
+    "武器名": "Poisoned Knife",
+    "種類": "range",
+    "シリーズ": "consumable",
+    "攻撃力": 14
+  },
+  {
+    "武器名": "Beenade",
+    "種類": "range",
+    "シリーズ": "consumable",
+    "攻撃力": 12
+  },
+  {
+    "武器名": "Bone Throwing Knife",
+    "種類": "range",
+    "シリーズ": "consumable",
+    "攻撃力": 14
+  },
+  {
+    "武器名": "Star Anise",
+    "種類": "range",
+    "シリーズ": "consumable",
+    "攻撃力": 14
+  },
+  {
+    "武器名": "Spiky Ball",
+    "種類": "range",
+    "シリーズ": "consumable",
+    "攻撃力": 16
+  },
+  {
+    "武器名": "Javelin",
+    "種類": "range",
+    "シリーズ": "consumable",
+    "攻撃力": 17
+  },
+  {
+    "武器名": "Frost Daggerfish",
+    "種類": "range",
+    "シリーズ": "consumable",
+    "攻撃力": 17
+  },
+  {
+    "武器名": "Bone",
+    "種類": "range",
+    "シリーズ": "consumable",
+    "攻撃力": 20
+  },
+  {
+    "武器名": "Molotov Cocktail",
+    "種類": "range",
+    "シリーズ": "consumable",
+    "攻撃力": 23
+  },
+  {
+    "武器名": "Bone Javelin",
+    "種類": "range",
+    "シリーズ": "consumable",
+    "攻撃力": 20
+  },
+  {
+    "武器名": "Happy Grenade",
+    "種類": "range",
+    "シリーズ": "consumable",
+    "攻撃力": 30
+  },
+  {
+    "武器名": "Grenade",
+    "種類": "range",
+    "シリーズ": "consumable",
+    "攻撃力": 60
+  },
+  {
+    "武器名": "Sticky Grenade",
+    "種類": "range",
+    "シリーズ": "consumable",
+    "攻撃力": 60
+  },
+  {
+    "武器名": "Bouncy Grenade",
+    "種類": "range",
+    "シリーズ": "consumable",
+    "攻撃力": 65
+  },
+  {
+    "武器名": "Ale Tosser",
+    "種類": "range",
+    "シリーズ": "other",
+    "攻撃力": 20
+  },
+  {
+    "武器名": "Paintball Gun",
+    "種類": "range",
+    "シリーズ": "other",
+    "攻撃力": 12
+  },
+  {
+    "武器名": "Harpoon",
+    "種類": "range",
+    "シリーズ": "other",
+    "攻撃力": 25
+  },
+  {
+    "武器名": "Toxikarp",
+    "種類": "range",
+    "シリーズ": "other",
+    "攻撃力": 43
+  },
+  {
+    "武器名": "Piranha Gun",
+    "種類": "range",
+    "シリーズ": "other",
+    "攻撃力": 38
+  }
+]

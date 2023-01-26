@@ -5,11 +5,20 @@ import BossAttackList from "./pages/BossAtackList";
 import ArmorList from "./pages/ArmorList";
 import ArmorStatusList from "./pages/ArmorStatusList";
 import ArmorSetList from "./pages/ArmorSetList";
+import MeleeWeponList from "./pages/MeleeWeponList";
+import RangeWeponList from "./pages/RangeWeponList";
 
 export default function App() {
   return (
     <>
       <BrowserRouter>
+        <div className="hero is-small is-info">
+          <div className="hero-body">
+            <Link to="/" className="title">
+              Terraria Manager
+            </Link>
+          </div>
+        </div>
         <section className="section">
           <div className="container">
             <div className="columns">
@@ -45,6 +54,15 @@ export default function App() {
                       <Link to="/armor_set">防具セット効果リスト</Link>
                     </li>
                   </ul>
+                  <p>武器</p>
+                  <ul className="menu-list">
+                    <li>
+                      <Link to="/wepon_melee">近接武器リスト</Link>
+                    </li>
+                    <li>
+                      <Link to="/wepon_range">遠距離武器リスト</Link>
+                    </li>
+                  </ul>
                 </aside>
               </div>
               <div className="column is-10">
@@ -55,6 +73,8 @@ export default function App() {
                   <Route path="/armor" element={<ArmorList />} />
                   <Route path="/armor_status" element={<ArmorStatusList />} />
                   <Route path="/armor_set" element={<ArmorSetList />} />
+                  <Route path="/wepon_melee" element={<MeleeWeponList />} />
+                  <Route path="/wepon_range" element={<RangeWeponList />} />
                 </Routes>
               </div>
             </div>
