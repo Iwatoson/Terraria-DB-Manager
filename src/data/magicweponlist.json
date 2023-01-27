@@ -1,0 +1,452 @@
+[
+  {
+    "武器名": "Wand of Sparking",
+    "種類": "magic",
+    "シリーズ": "wand",
+    "攻撃力": 14
+  },
+  {
+    "武器名": "Wand of Frosting",
+    "種類": "magic",
+    "シリーズ": "wand",
+    "攻撃力": 15
+  },
+  {
+    "武器名": "Amethyst Staff",
+    "種類": "magic",
+    "シリーズ": "wand",
+    "攻撃力": 15
+  },
+  {
+    "武器名": "Topaz Staff",
+    "種類": "magic",
+    "シリーズ": "wand",
+    "攻撃力": 16
+  },
+  {
+    "武器名": "Sapphire Staff",
+    "種類": "magic",
+    "シリーズ": "wand",
+    "攻撃力": 18
+  },
+  {
+    "武器名": "Emerald Staff",
+    "種類": "magic",
+    "シリーズ": "wand",
+    "攻撃力": 19
+  },
+  {
+    "武器名": "Amber Staff",
+    "種類": "magic",
+    "シリーズ": "wand",
+    "攻撃力": 21
+  },
+  {
+    "武器名": "Ruby Staff",
+    "種類": "magic",
+    "シリーズ": "wand",
+    "攻撃力": 21
+  },
+  {
+    "武器名": "Diamond Staff",
+    "種類": "magic",
+    "シリーズ": "wand",
+    "攻撃力": 23
+  },
+  {
+    "武器名": "Thunder Zapper",
+    "種類": "magic",
+    "シリーズ": "wand",
+    "攻撃力": 20
+  },
+  {
+    "武器名": "Vilethorn",
+    "種類": "magic",
+    "シリーズ": "wand",
+    "攻撃力": 10
+  },
+  {
+    "武器名": "Aqua Scepter",
+    "種類": "magic",
+    "シリーズ": "wand",
+    "攻撃力": 27
+  },
+  {
+    "武器名": "Magic Missile",
+    "種類": "magic",
+    "シリーズ": "wand",
+    "攻撃力": 35
+  },
+  {
+    "武器名": "Weather Pain",
+    "種類": "magic",
+    "シリーズ": "wand",
+    "攻撃力": 13
+  },
+  {
+    "武器名": "Flamelash",
+    "種類": "magic",
+    "シリーズ": "wand",
+    "攻撃力": 32
+  },
+  {
+    "武器名": "Flower of Fire",
+    "種類": "magic",
+    "シリーズ": "wand",
+    "攻撃力": 48
+  },
+  {
+    "武器名": "Sky Fracture",
+    "種類": "magic",
+    "シリーズ": "wand",
+    "攻撃力": 38
+  },
+  {
+    "武器名": "Meteor Staff",
+    "種類": "magic",
+    "シリーズ": "wand",
+    "攻撃力": 50
+  },
+  {
+    "武器名": "Crystal Serpent",
+    "種類": "magic",
+    "シリーズ": "wand",
+    "攻撃力": 40
+  },
+  {
+    "武器名": "Crystal Vile Shard",
+    "種類": "magic",
+    "シリーズ": "wand",
+    "攻撃力": 25
+  },
+  {
+    "武器名": "Life Drain",
+    "種類": "magic",
+    "シリーズ": "wand",
+    "攻撃力": 35
+  },
+  {
+    "武器名": "Poison Staff",
+    "種類": "magic",
+    "シリーズ": "wand",
+    "攻撃力": 43
+  },
+  {
+    "武器名": "Frost Staff",
+    "種類": "magic",
+    "シリーズ": "wand",
+    "攻撃力": 46
+  },
+  {
+    "武器名": "Flower of Frost",
+    "種類": "magic",
+    "シリーズ": "wand",
+    "攻撃力": 60
+  },
+  {
+    "武器名": "Unholy Trident",
+    "種類": "magic",
+    "シリーズ": "wand",
+    "攻撃力": 88
+  },
+  {
+    "武器名": "Rainbow Rod",
+    "種類": "magic",
+    "シリーズ": "wand",
+    "攻撃力": 50
+  },
+  {
+    "武器名": "Tome of Infinite Wisdom",
+    "種類": "magic",
+    "シリーズ": "wand",
+    "攻撃力": 36
+  },
+  {
+    "武器名": "Nettle Burst",
+    "種類": "magic",
+    "シリーズ": "wand",
+    "攻撃力": 35
+  },
+  {
+    "武器名": "Venom Staff",
+    "種類": "magic",
+    "シリーズ": "wand",
+    "攻撃力": 44
+  },
+  {
+    "武器名": "Shadowbeam Staff",
+    "種類": "magic",
+    "シリーズ": "wand",
+    "攻撃力": 80
+  },
+  {
+    "武器名": "Inferno Fork",
+    "種類": "magic",
+    "シリーズ": "wand",
+    "攻撃力": 70
+  },
+  {
+    "武器名": "Spectre Staff",
+    "種類": "magic",
+    "シリーズ": "wand",
+    "攻撃力": 65
+  },
+  {
+    "武器名": "Bat Scepter",
+    "種類": "magic",
+    "シリーズ": "wand",
+    "攻撃力": 45
+  },
+  {
+    "武器名": "Razorpine",
+    "種類": "magic",
+    "シリーズ": "wand",
+    "攻撃力": 48
+  },
+  {
+    "武器名": "Blizzard Staff",
+    "種類": "magic",
+    "シリーズ": "wand",
+    "攻撃力": 58
+  },
+  {
+    "武器名": "Resonance Scepter",
+    "種類": "magic",
+    "シリーズ": "wand",
+    "攻撃力": 70
+  },
+  {
+    "武器名": "Staff of Earth",
+    "種類": "magic",
+    "シリーズ": "wand",
+    "攻撃力": 125
+  },
+  {
+    "武器名": "Betsy's Wrath",
+    "種類": "magic",
+    "シリーズ": "wand",
+    "攻撃力": 100
+  },
+  {
+    "武器名": "Gray Zapinator",
+    "種類": "magic",
+    "シリーズ": "magic gun",
+    "攻撃力": 42
+  },
+  {
+    "武器名": "Space Gun",
+    "種類": "magic",
+    "シリーズ": "magic gun",
+    "攻撃力": 17
+  },
+  {
+    "武器名": "Bee Gun",
+    "種類": "magic",
+    "シリーズ": "magic gun",
+    "攻撃力": 9
+  },
+  {
+    "武器名": "Laser Rifle",
+    "種類": "magic",
+    "シリーズ": "magic gun",
+    "攻撃力": 29
+  },
+  {
+    "武器名": "Orange Zapinator",
+    "種類": "magic",
+    "シリーズ": "magic gun",
+    "攻撃力": 100
+  },
+  {
+    "武器名": "Wasp Gun",
+    "種類": "magic",
+    "シリーズ": "magic gun",
+    "攻撃力": 31
+  },
+  {
+    "武器名": "Leaf Blower",
+    "種類": "magic",
+    "シリーズ": "magic gun",
+    "攻撃力": 48
+  },
+  {
+    "武器名": "Rainbow Gun",
+    "種類": "magic",
+    "シリーズ": "magic gun",
+    "攻撃力": 45
+  },
+  {
+    "武器名": "Heat Ray",
+    "種類": "magic",
+    "シリーズ": "magic gun",
+    "攻撃力": 90
+  },
+  {
+    "武器名": "Laser Machinegun",
+    "種類": "magic",
+    "シリーズ": "magic gun",
+    "攻撃力": 60
+  },
+  {
+    "武器名": "Charged Blaster Cannon",
+    "種類": "magic",
+    "シリーズ": "magic gun",
+    "攻撃力": 100
+  },
+  {
+    "武器名": "Bubble Gun",
+    "種類": "magic",
+    "シリーズ": "magic gun",
+    "攻撃力": 70
+  },
+  {
+    "武器名": "Demon Scythe",
+    "種類": "magic",
+    "シリーズ": "spell book",
+    "攻撃力": 35
+  },
+  {
+    "武器名": "Book of Skulls",
+    "種類": "magic",
+    "シリーズ": "spell book",
+    "攻撃力": 29
+  },
+  {
+    "武器名": "Water Bolt",
+    "種類": "magic",
+    "シリーズ": "spell book",
+    "攻撃力": 19
+  },
+  {
+    "武器名": "Cursed Flames",
+    "種類": "magic",
+    "シリーズ": "spell book",
+    "攻撃力": 55
+  },
+  {
+    "武器名": "Golden Shower",
+    "種類": "magic",
+    "シリーズ": "spell book",
+    "攻撃力": 30
+  },
+  {
+    "武器名": "Crystal Storm",
+    "種類": "magic",
+    "シリーズ": "spell book",
+    "攻撃力": 32
+  },
+  {
+    "武器名": "Magnet Sphere",
+    "種類": "magic",
+    "シリーズ": "spell book",
+    "攻撃力": 48
+  },
+  {
+    "武器名": "Razorblade Typhoon",
+    "種類": "magic",
+    "シリーズ": "spell book",
+    "攻撃力": 85
+  },
+  {
+    "武器名": "Lunar Flare",
+    "種類": "magic",
+    "シリーズ": "spell book",
+    "攻撃力": 100
+  },
+  {
+    "武器名": "Crimson Rod",
+    "種類": "magic",
+    "シリーズ": "other",
+    "攻撃力": 12
+  },
+  {
+    "武器名": "Ice Rod",
+    "種類": "magic",
+    "シリーズ": "other",
+    "攻撃力": 28
+  },
+  {
+    "武器名": "Magic Dagger",
+    "種類": "magic",
+    "シリーズ": "other",
+    "攻撃力": 35
+  },
+  {
+    "武器名": "Medusa Head",
+    "種類": "magic",
+    "シリーズ": "other",
+    "攻撃力": 40
+  },
+  {
+    "武器名": "Clinger Staff",
+    "種類": "magic",
+    "シリーズ": "other",
+    "攻撃力": 43
+  },
+  {
+    "武器名": "Spirit Flame",
+    "種類": "magic",
+    "シリーズ": "other",
+    "攻撃力": 85
+  },
+  {
+    "武器名": "Shadowflame Hex Doll",
+    "種類": "magic",
+    "シリーズ": "other",
+    "攻撃力": 32
+  },
+  {
+    "武器名": "Blood Thorn",
+    "種類": "magic",
+    "シリーズ": "other",
+    "攻撃力": 34
+  },
+  {
+    "武器名": "Nimbus Rod",
+    "種類": "magic",
+    "シリーズ": "other",
+    "攻撃力": 30
+  },
+  {
+    "武器名": "Magical Harp",
+    "種類": "magic",
+    "シリーズ": "other",
+    "攻撃力": 42
+  },
+  {
+    "武器名": "Toxic Flask",
+    "種類": "magic",
+    "シリーズ": "other",
+    "攻撃力": 52
+  },
+  {
+    "武器名": "Nightglow",
+    "種類": "magic",
+    "シリーズ": "other",
+    "攻撃力": 50
+  },
+  {
+    "武器名": "Stellar Tune",
+    "種類": "magic",
+    "シリーズ": "other",
+    "攻撃力": 85
+  },
+  {
+    "武器名": "Nebula Arcanum",
+    "種類": "magic",
+    "シリーズ": "other",
+    "攻撃力": 70
+  },
+  {
+    "武器名": "Nebula Blaze",
+    "種類": "magic",
+    "シリーズ": "other",
+    "攻撃力": 130
+  },
+  {
+    "武器名": "Last Prism",
+    "種類": "magic",
+    "シリーズ": "other",
+    "攻撃力": 100
+  }
+]

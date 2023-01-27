@@ -1,0 +1,285 @@
+[
+  {
+    "武器名": "Abigail's Flower",
+    "種類": "summon",
+    "シリーズ": "minion",
+    "攻撃力": 6
+  },
+  {
+    "武器名": "Finch Staff",
+    "種類": "summon",
+    "シリーズ": "minion",
+    "攻撃力": 7
+  },
+  {
+    "武器名": "Flinx Staff",
+    "種類": "summon",
+    "シリーズ": "minion",
+    "攻撃力": 8
+  },
+  {
+    "武器名": "Slime Staff",
+    "種類": "summon",
+    "シリーズ": "minion",
+    "攻撃力": 8
+  },
+  {
+    "武器名": "Vampire Frog Staff",
+    "種類": "summon",
+    "シリーズ": "minion",
+    "攻撃力": 11
+  },
+  {
+    "武器名": "Hornet Staff",
+    "種類": "summon",
+    "シリーズ": "minion",
+    "攻撃力": 12
+  },
+  {
+    "武器名": "Imp Staff",
+    "種類": "summon",
+    "シリーズ": "minion",
+    "攻撃力": 17
+  },
+  {
+    "武器名": "Spider Staff",
+    "種類": "summon",
+    "シリーズ": "minion",
+    "攻撃力": 26
+  },
+  {
+    "武器名": "Sanguine Staff",
+    "種類": "summon",
+    "シリーズ": "minion",
+    "攻撃力": 35
+  },
+  {
+    "武器名": "Pirate Staff",
+    "種類": "summon",
+    "シリーズ": "minion",
+    "攻撃力": 40
+  },
+  {
+    "武器名": "Blade Staff",
+    "種類": "summon",
+    "シリーズ": "minion",
+    "攻撃力": 6
+  },
+  {
+    "武器名": "Optic Staff",
+    "種類": "summon",
+    "シリーズ": "minion",
+    "攻撃力": 24
+  },
+  {
+    "武器名": "Pygmy Staff",
+    "種類": "summon",
+    "シリーズ": "minion",
+    "攻撃力": 40
+  },
+  {
+    "武器名": "Desert Tiger Staff",
+    "種類": "summon",
+    "シリーズ": "minion",
+    "攻撃力": 41
+  },
+  {
+    "武器名": "Deadly Sphere Staff",
+    "種類": "summon",
+    "シリーズ": "minion",
+    "攻撃力": 40
+  },
+  {
+    "武器名": "Raven Staff",
+    "種類": "summon",
+    "シリーズ": "minion",
+    "攻撃力": 55
+  },
+  {
+    "武器名": "Xeno Staff",
+    "種類": "summon",
+    "シリーズ": "minion",
+    "攻撃力": 36
+  },
+  {
+    "武器名": "Tempest Staff",
+    "種類": "summon",
+    "シリーズ": "minion",
+    "攻撃力": 50
+  },
+  {
+    "武器名": "Stardust Dragon Staff",
+    "種類": "summon",
+    "シリーズ": "minion",
+    "攻撃力": 40
+  },
+  {
+    "武器名": "Stardust Cell Staff",
+    "種類": "summon",
+    "シリーズ": "minion",
+    "攻撃力": 60
+  },
+  {
+    "武器名": "Terraprisma",
+    "種類": "summon",
+    "シリーズ": "minion",
+    "攻撃力": 90
+  },
+  {
+    "武器名": "Houndius Shootius",
+    "種類": "summon",
+    "シリーズ": "sentry",
+    "攻撃力": 24
+  },
+
+  {
+    "武器名": "Queen Spider Staff",
+    "種類": "summon",
+    "シリーズ": "sentry",
+    "攻撃力": 26
+  },
+  {
+    "武器名": "Staff of the Frost Hydra",
+    "種類": "summon",
+    "シリーズ": "sentry",
+    "攻撃力": 100
+  },
+  {
+    "武器名": "Lunar Portal Staff",
+    "種類": "summon",
+    "シリーズ": "sentry",
+    "攻撃力": 100
+  },
+  {
+    "武器名": "Rainbow Crystal Staff",
+    "種類": "summon",
+    "シリーズ": "sentry",
+    "攻撃力": 100
+  },
+  {
+    "武器名": "Lightning Aura Rod",
+    "種類": "summon",
+    "シリーズ": "sentry",
+    "攻撃力": 4
+  },
+  {
+    "武器名": "Flameburst Rod",
+    "種類": "summon",
+    "シリーズ": "sentry",
+    "攻撃力": 17
+  },
+  {
+    "武器名": "Explosive Trap Rod",
+    "種類": "summon",
+    "シリーズ": "sentry",
+    "攻撃力": 24
+  },
+  {
+    "武器名": "Ballista Rod",
+    "種類": "summon",
+    "シリーズ": "sentry",
+    "攻撃力": 30
+  },
+  {
+    "武器名": "Lightning Aura Cane",
+    "種類": "summon",
+    "シリーズ": "sentry",
+    "攻撃力": 11
+  },
+  {
+    "武器名": "Flameburst Cane",
+    "種類": "summon",
+    "シリーズ": "sentry",
+    "攻撃力": 42
+  },
+  {
+    "武器名": "Explosive Trap Cane",
+    "種類": "summon",
+    "シリーズ": "sentry",
+    "攻撃力": 59
+  },
+  {
+    "武器名": "Ballista Cane",
+    "種類": "summon",
+    "シリーズ": "sentry",
+    "攻撃力": 74
+  },
+  {
+    "武器名": "Lightning Aura Staff",
+    "種類": "summon",
+    "シリーズ": "sentry",
+    "攻撃力": 34
+  },
+  {
+    "武器名": "Flameburst Staff",
+    "種類": "summon",
+    "シリーズ": "sentry",
+    "攻撃力": 88
+  },
+  {
+    "武器名": "Explosive Trap Staff",
+    "種類": "summon",
+    "シリーズ": "sentry",
+    "攻撃力": 126
+  },
+  {
+    "武器名": "Ballista Staff",
+    "種類": "summon",
+    "シリーズ": "sentry",
+    "攻撃力": 156
+  },
+  {
+    "武器名": "Leather Whip",
+    "種類": "summon",
+    "シリーズ": "whip",
+    "攻撃力": 14
+  },
+  {
+    "武器名": "Snapthorn",
+    "種類": "summon",
+    "シリーズ": "whip",
+    "攻撃力": 18
+  },
+  {
+    "武器名": "Spinal Tap",
+    "種類": "summon",
+    "シリーズ": "whip",
+    "攻撃力": 27
+  },
+  {
+    "武器名": "Firecracker",
+    "種類": "summon",
+    "シリーズ": "whip",
+    "攻撃力": 37
+  },
+  {
+    "武器名": "Cool Whip",
+    "種類": "summon",
+    "シリーズ": "whip",
+    "攻撃力": 45
+  },
+  {
+    "武器名": "Durendal",
+    "種類": "summon",
+    "シリーズ": "whip",
+    "攻撃力": 55
+  },
+  {
+    "武器名": "Dark Harvest",
+    "種類": "summon",
+    "シリーズ": "whip",
+    "攻撃力": 100
+  },
+  {
+    "武器名": "Morning Star",
+    "種類": "summon",
+    "シリーズ": "whip",
+    "攻撃力": 165
+  },
+  {
+    "武器名": "Kaleidoscope",
+    "種類": "summon",
+    "シリーズ": "whip",
+    "攻撃力": 180
+  }
+]

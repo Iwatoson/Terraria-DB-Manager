@@ -7,6 +7,9 @@ import ArmorStatusList from "./pages/ArmorStatusList";
 import ArmorSetList from "./pages/ArmorSetList";
 import MeleeWeponList from "./pages/MeleeWeponList";
 import RangeWeponList from "./pages/RangeWeponList";
+import MagicWeponList from "./pages/MagicWeponList";
+import SummonWeponList from "./pages/SummonWeponList";
+import ModifierList from "./pages/ModifierList";
 
 export default function App() {
   return (
@@ -62,6 +65,18 @@ export default function App() {
                     <li>
                       <Link to="/wepon_range">遠距離武器リスト</Link>
                     </li>
+                    <li>
+                      <Link to="/wepon_magic">魔法武器リスト</Link>
+                    </li>
+                    <li>
+                      <Link to="/wepon_summon">召喚武器リスト</Link>
+                    </li>
+                  </ul>
+                  <p>Modifier</p>
+                  <ul className="menu-list">
+                    <li>
+                      <Link to="/modifier">Modifierリスト</Link>
+                    </li>
                   </ul>
                 </aside>
               </div>
@@ -75,6 +90,9 @@ export default function App() {
                   <Route path="/armor_set" element={<ArmorSetList />} />
                   <Route path="/wepon_melee" element={<MeleeWeponList />} />
                   <Route path="/wepon_range" element={<RangeWeponList />} />
+                  <Route path="/wepon_magic" element={<MagicWeponList />} />
+                  <Route path="/wepon_summon" element={<SummonWeponList />} />
+                  <Route path="/modifier" element={<ModifierList />} />
                 </Routes>
               </div>
             </div>

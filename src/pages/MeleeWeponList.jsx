@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import weponData from "../data/meleeweaponlist.json";
+import weponData from "../data/meleeweponlist.json";
 
 export default function MeleeWeaponList() {
   const [wepons, setWepons] = useState([]);
@@ -16,12 +16,26 @@ export default function MeleeWeaponList() {
   );
   return (
     <>
-      <div className="hero is-small is-info">
+      <div
+        className="hero is-small is-info"
+        style={{
+          position: "sticky",
+          top: 0,
+          zIndex: 10,
+        }}
+      >
         <div className="hero-body">
           <h1 className="title">近接武器リスト</h1>
         </div>
       </div>
-      <div className="select is-fullwidth">
+      <div
+        className="select is-fullwidth"
+        style={{
+          position: "sticky",
+          top: 84,
+          zIndex: 9,
+        }}
+      >
         <select
           name="series"
           defaultValue="default"
@@ -45,7 +59,7 @@ export default function MeleeWeaponList() {
           style={{
             background: "white",
             position: "sticky",
-            top: 0,
+            top: 124,
           }}
         >
           <tr>

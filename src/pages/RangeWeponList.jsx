@@ -16,12 +16,26 @@ export default function RangeWeponList() {
   );
   return (
     <>
-      <div className="hero is-small is-info">
+      <div
+        className="hero is-small is-info"
+        style={{
+          position: "sticky",
+          top: 0,
+          zIndex: 10,
+        }}
+      >
         <div className="hero-body">
           <h1 className="title">遠距離武器リスト</h1>
         </div>
       </div>
-      <div className="select is-fullwidth">
+      <div
+        className="select is-fullwidth"
+        style={{
+          position: "sticky",
+          top: 84,
+          zIndex: 9,
+        }}
+      >
         <select
           name="series"
           defaultValue="default"
@@ -45,7 +59,7 @@ export default function RangeWeponList() {
           style={{
             background: "white",
             position: "sticky",
-            top: 0,
+            top: 124,
           }}
         >
           <tr>

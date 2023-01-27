@@ -1,18 +1,18 @@
 import { useEffect, useState } from "react";
-import armorSet from "../data/armorset.json";
+import weponData from "../data/magicweponlist.json";
 
-export default function ArmorSetList() {
-  const [armorSets, setArmorSets] = useState([]);
-  const [selectTypes, setTypes] = useState("default");
+export default function MagicWeaponList() {
+  const [wepons, setWepons] = useState([]);
+  const [selectSeries, setSeries] = useState("default");
 
   useEffect(() => {
-    setArmorSets(armorSet);
+    setWepons(weponData);
   }, []);
-  if (armorSets.length === 0) {
+  if (wepons.length === 0) {
     return <div>now loading....</div>;
   }
-  const type = Array.from(
-    new Map(armorSet.map((item) => [item.種類, item])).values()
+  const series = Array.from(
+    new Map(wepons.map((item) => [item.シリーズ, item])).values()
   );
   return (
     <>
@@ -25,7 +25,7 @@ export default function ArmorSetList() {
         }}
       >
         <div className="hero-body">
-          <h1 className="title">防具セット効果リスト</h1>
+          <h1 className="title">魔法武器リスト</h1>
         </div>
       </div>
       <div
@@ -37,18 +37,18 @@ export default function ArmorSetList() {
         }}
       >
         <select
-          name="type"
+          name="series"
           defaultValue="default"
           onChange={(event) => {
             event.preventDefault();
-            setTypes(event.target.value);
+            setSeries(event.target.value);
           }}
         >
           <option value="default">------</option>
-          {type.map((types) => {
+          {series.map((serieses) => {
             return (
-              <option value={types.種類} key={types.種類}>
-                {types.種類}
+              <option value={serieses.シリーズ} key={serieses.シリーズ}>
+                {serieses.シリーズ}
               </option>
             );
           })}
@@ -63,7 +63,7 @@ export default function ArmorSetList() {
           }}
         >
           <tr>
-            {Object.keys(armorSets[0]).map((head) => {
+            {Object.keys(wepons[0]).map((head) => {
               return (
                 <th key={head} style={{ width: 0 }}>
                   {head}
@@ -73,12 +73,12 @@ export default function ArmorSetList() {
           </tr>
         </thead>
         <tbody>
-          {armorSets.map((armor) => {
-            if (armor.種類 == selectTypes || selectTypes == "default") {
+          {wepons.map((wepon) => {
+            if (wepon.シリーズ == selectSeries || selectSeries == "default") {
               return (
-                <tr key={armor.シリーズ + armor.種類}>
-                  {Object.keys(armorSets[0]).map((head) => {
-                    return <td key={head}>{armor[`${head}`]}</td>;
+                <tr key={wepon.武器名}>
+                  {Object.keys(wepons[0]).map((head) => {
+                    return <td key={head}>{wepon[`${head}`]}</td>;
                   })}
                 </tr>
               );

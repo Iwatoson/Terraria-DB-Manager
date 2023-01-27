@@ -16,12 +16,26 @@ export default function BossList() {
   );
   return (
     <>
-      <div className="hero is-small is-info">
+      <div
+        className="hero is-small is-info"
+        style={{
+          position: "sticky",
+          top: 0,
+          zIndex: 10,
+        }}
+      >
         <div className="hero-body">
           <h1 className="title">ボスリスト</h1>
         </div>
       </div>
-      <div className="select is-fullwidth">
+      <div
+        className="select is-fullwidth"
+        style={{
+          position: "sticky",
+          top: 84,
+          zIndex: 9,
+        }}
+      >
         <select
           name="boss"
           defaultValue="default"
@@ -45,7 +59,7 @@ export default function BossList() {
           style={{
             background: "white",
             position: "sticky",
-            top: 0,
+            top: 124,
           }}
         >
           <tr>
