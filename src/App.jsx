@@ -10,6 +10,7 @@ import RangeWeponList from "./pages/RangeWeponList";
 import MagicWeponList from "./pages/MagicWeponList";
 import SummonWeponList from "./pages/SummonWeponList";
 import ModifierList from "./pages/ModifierList";
+import DamageCalculator from "./pages/DamageCalculator";
 
 export default function App() {
   return (
@@ -78,6 +79,12 @@ export default function App() {
                       <Link to="/modifier">Modifierリスト</Link>
                     </li>
                   </ul>
+                  <p>計算機</p>
+                  <ul className="menu-list">
+                    <li>
+                      <Link to="/calculator">ダメージ計算器</Link>
+                    </li>
+                  </ul>
                 </aside>
               </div>
               <div className="column is-10">
@@ -93,6 +100,7 @@ export default function App() {
                   <Route path="/wepon_magic" element={<MagicWeponList />} />
                   <Route path="/wepon_summon" element={<SummonWeponList />} />
                   <Route path="/modifier" element={<ModifierList />} />
+                  <Route path="/calculator" element={<DamageCalculator />} />
                 </Routes>
               </div>
             </div>
