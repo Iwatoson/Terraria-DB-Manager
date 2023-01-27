@@ -151,7 +151,6 @@ export default function DamageCalculator() {
                   );
                 })}
               </select>
-              {console.log(selectBoss)}
             </div>
           </div>
         </div>
@@ -177,7 +176,6 @@ export default function DamageCalculator() {
                   );
                 })}
               </select>
-              {console.log(slectWepon)}
             </div>
           </div>
         </div>
