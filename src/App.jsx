@@ -11,6 +11,7 @@ import MagicWeponList from "./pages/MagicWeponList";
 import SummonWeponList from "./pages/SummonWeponList";
 import ModifierList from "./pages/ModifierList";
 import DamageCalculator from "./pages/DamageCalculator";
+import Home from "./pages/Home";
 
 export default function App() {
   return (
@@ -89,6 +90,7 @@ export default function App() {
               </div>
               <div className="column is-10">
                 <Routes>
+                  <Route path="/" element={<Home />} />
                   <Route path="/boss" element={<BossList />} />
                   <Route path="/boss_status" element={<BossStatusList />} />
                   <Route path="/boss_attack" element={<BossAttackList />} />
