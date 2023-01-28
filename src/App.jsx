@@ -17,7 +17,7 @@ export default function App() {
   return (
     <>
       <BrowserRouter>
-        <div className="hero is-small is-info">
+        <div className="hero is-small is-primary">
           <div className="hero-body">
             <Link to="/" className="title">
               Terraria Manager

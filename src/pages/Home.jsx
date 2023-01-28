@@ -19,10 +19,16 @@ export default function Home() {
           </h1>
         </div>
       </div>
-      <div className="hero is-small is-primary">
+      <div className="hero is-small is-link">
         <div className="hero-body">
           <h1 className="title">サイト説明</h1>
-          <h1 className="subtitle">・データの取得元はterraria公式wikiである</h1>
+          <h1 className="subtitle">
+            ・データの取得元は
+            <a href="https://terraria.wiki.gg/wiki/Terraria_Wiki">
+              terraria公式wiki
+            </a>
+            である
+          </h1>
         </div>
       </div>
     </>

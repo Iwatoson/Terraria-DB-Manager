@@ -180,6 +180,13 @@ export default function DamageCalculator() {
           </div>
         </div>
       </div>
+      <div className="panel">
+        <p className="panel-heading">ダメージ計算式</p>
+        <p className="panel-heading">
+          ボスの最大体力 - {"("} 武器の攻撃力 * 3{"("}難易度補正{")"} - 防御力
+          {")"}= 攻撃後のボスの体力
+        </p>
+      </div>
       <div>
         {bossData.map((item) => {
           if (item["ボス名"] === selectBoss) {
